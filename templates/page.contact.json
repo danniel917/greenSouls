@@ -1,0 +1,35 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "b711de13-e4ca-4402-8b81-d47831d78fa3": {
+      "type": "cb-contact-section",
+      "custom_css": [
+        "@media (max-width: 800px) {.cb__container {margin-top: 2em; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "media_alignment": "left",
+        "title": "Contáctanos",
+        "title_size": 32,
+        "title_color": "#ffffff",
+        "subtitle": "",
+        "subtitle_color": "#ffffff",
+        "paragraph_1": "<p>Es posible tener un futuro mejor.<br\/>Contáctanos para saber más sobre nuestra misión y trabajo o para participar.<\/p>",
+        "paragraph_2": "<p><a href=\"mailto:l.tovar@greensoulsglobal.com\" target=\"_blank\" title=\"mailto:l.tovar@greensoulsglobal.com\">l.tovar@greensoulsglobal.com<\/a><br\/><a href=\"mailto:camilo@greensoulsglobal.com\" target=\"_blank\" title=\"mailto:camilo@greensoulsglobal.com\">camilo@greensoulsglobal.com<\/a><\/p>",
+        "paragraph_3": "<p>COL: +57 (304)285-0408<br\/>USA: +1 (909) 765-6553<\/p>",
+        "paragraph": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b711de13-e4ca-4402-8b81-d47831d78fa3"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+          }
+        },
+        "column-4": {
+          "type": "column",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3",
+        "column-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_mobile": "1",
+        "color_scheme": "background-card",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_desc": false,
+        "enable_filtering": true,
+        "enable_sorting": true
+      }
+    },
+    "5f153c1f-8f16-48f6-b96d-473930cf148f": {
+      "type": "instagram-collage",
+      "blocks": {
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-0": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-1": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-2": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-3": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-4": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-5": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-6": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-7": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        },
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-8": {
+          "type": "instagram-collage_image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-0",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-1",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-2",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-3",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-4",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-5",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-6",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-7",
+        "template--17078273114421__5f153c1f-8f16-48f6-b96d-473930cf148f-1675334693d77d24c6-8"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "<p>Heading for Image collage<\/p>",
+        "name_account": "account name",
+        "desc_account": "account followers",
+        "button_label": "Explore",
+        "button_link": "",
+        "margin_top": 170,
+        "margin_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "5f153c1f-8f16-48f6-b96d-473930cf148f"
+  ]
+}

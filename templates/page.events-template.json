@@ -1,0 +1,358 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "0fcd4099-be09-4292-aed9-d5db6b98ba70": {
+      "type": "cb-banner-events-details",
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 300,
+        "padding_bottom": 300,
+        "background_image": "shopify:\/\/shop_images\/san-andres-aqua-banner.jpg",
+        "title": "",
+        "title_color": "#ffffff",
+        "title_alignment": "left",
+        "location_text": "<p>San Andrés<\/p>"
+      }
+    },
+    "f3279bb5-8bc2-45c3-b2e1-42d59210a7f1": {
+      "type": "cb-events-details",
+      "custom_css": [
+        "@media (max-width: 800px) {.contenido {display: grid; align-content: center; row-gap: 8px; } .cb__show-border-top {border-top-width: 0; }}",
+        "@media (min-width: 1023px) {.cb__container .section-template--21453850673472__f3279bb5-8bc2-45c3-b2e1-42d59210a7f1 {padding-bottom: 60px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 30,
+        "show-border-top": true,
+        "show-border-bottom": false,
+        "border-color": "#08393f",
+        "titulo": "<h2><strong>¡Descubre San Andrés!<\/strong><\/h2>",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "<h5>Del 22 al 24 de Noviembre de 2023<\/h5>",
+        "parrafo_color": "#000000"
+      }
+    },
+    "a00aad7b-581b-4bbb-b893-f2e278435018": {
+      "type": "cb-events-details",
+      "custom_css": [
+        "@media (min-width: 1023px) {.cb__container .section-template--21453850673472__a00aad7b-581b-4bbb-b893-f2e278435018 {padding-bottom: 60px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 20,
+        "show-border-top": true,
+        "show-border-bottom": true,
+        "border-color": "#08393f",
+        "titulo": "<h4><strong>¡Vive San Andrés al mejor estilo GreenSouls y disfruta mientras proteges este paraíso!<\/strong><\/h4>",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "<p>San Andrés es sin duda uno de los principales paraísos naturales que tenemos en el mundo, y tenemos la fortuna de que sea en Colombia.<\/p>",
+        "parrafo_color": "#000000"
+      }
+    },
+    "da785b84-3924-4285-9b5b-bbd94a9c33fe": {
+      "type": "cb-events-details",
+      "blocks": {
+        "a078af9a-1450-463b-83f1-f8d09d8dbfd1": {
+          "type": "right_content",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/Asset_4.svg",
+            "image_width": 80,
+            "details": "<p>Buceo y Snorkeling con propósito<\/p>"
+          }
+        },
+        "89971f83-2a61-47fc-996f-98c6cba215fa": {
+          "type": "right_content",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/Asset_2.svg",
+            "image_width": 80,
+            "details": "<p>Limpieza de Playas<\/p>"
+          }
+        },
+        "5d827918-dc93-433f-b476-65ef78fd4718": {
+          "type": "right_content",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/sonriente.png",
+            "image_width": 80,
+            "details": "<p>Donación de tecnología, elementos de aseo e higiene personas a estudiantes, biólogos y recicladores<\/p>"
+          }
+        },
+        "5dab156d-ba61-4970-a9ee-23c668965461": {
+          "type": "right_content",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/Asset_1.svg",
+            "image_width": 80,
+            "details": "<p>Siembra y trasplante de corales<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a078af9a-1450-463b-83f1-f8d09d8dbfd1",
+        "89971f83-2a61-47fc-996f-98c6cba215fa",
+        "5d827918-dc93-433f-b476-65ef78fd4718",
+        "5dab156d-ba61-4970-a9ee-23c668965461"
+      ],
+      "custom_css": [
+        "@media (min-width: 800px) {.contenedor-child {grid-template-columns: 1fr 1fr; }}",
+        ".cb__right-content-item:last-child {border-bottom: none;}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show-border-top": false,
+        "show-border-bottom": false,
+        "border-color": "#08393f",
+        "titulo": "<h2><strong>¿Qué Harás?<\/strong><\/h2>",
+        "titulo_color": "#000000",
+        "subtitulo": "<p>Conexión, buena vibra, e impacto positivo se funden en este viaje inolvidable. <\/p>",
+        "subtitulo_color": "#000000",
+        "parrafo": "<h5><strong>¿Estás listo para elevar tu conciencia y disfrutar tu planeta al máximo?<\/strong><\/h5>",
+        "parrafo_color": "#000000"
+      }
+    },
+    "2eb5e686-363d-4e29-bfa5-054fda7735f8": {
+      "type": "cb-itinerary-events-details",
+      "custom_css": [
+        ".contenedor-child {border-bottom: 1px solid; border-radius: 0px; border-top: 1px solid;}",
+        "@media (max-width: 800px) {.contenedor-child {padding-block: 4em; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "title": "<h2>Itinerario<\/h2>",
+        "title_color": "#000000",
+        "subtitle": "<p>Nuestros expertos y embajadores #GreenSouls acompañarán al grupo de almas verdes desde su llegada a la ciudad y tendremos los siguientes momentos durante 3 días:<\/p>",
+        "subtitle_color": "#000000",
+        "paragraph": "",
+        "paragraph_color": "#000000",
+        "block_buttons": true,
+        "button_label_1": "<p>Aparta tu cupo<\/p>",
+        "button_link_1": "shopify:\/\/products\/san-andres-aqua",
+        "button_label_2": "<p>Entérate de más<br\/><strong>Descarga el itinerario<\/strong><\/p>",
+        "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/0819\/9674\/2976\/files\/Viaja_a_San_Andres_con_aquaxgreensouls.pdf?v=1698700369"
+      }
+    },
+    "5f2b6a8e-2922-4746-a075-fbe9c3be141a": {
+      "type": "cb-content-events-details",
+      "blocks": {
+        "40208118-9281-4a16-94ec-3f6f332643c4": {
+          "type": "join_content",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_4.jpg",
+            "details_text": "<p>Habitación Compartida<br\/>+<br\/>Baño privado en habitación<br\/>compartida<\/p>",
+            "details_price": "<h4>= $3.000.000<\/h4><p><strong>*No incluye tiquetes aéreos<\/strong><\/p>"
+          }
+        },
+        "48a00127-42af-474f-bed1-cf8dcb8cfe0d": {
+          "type": "join_content",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_4.jpg",
+            "details_text": "<p>Habitación Compartida<br\/>+<br\/>Baño privado en habitación<br\/>compartida<\/p>",
+            "details_price": "<h4>= $4.000.000<\/h4><p><strong>*Incluye tiquetes aéreos<\/strong><\/p><p><strong>Desde Medellín o Bogotá<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "40208118-9281-4a16-94ec-3f6f332643c4",
+        "48a00127-42af-474f-bed1-cf8dcb8cfe0d"
+      ],
+      "custom_css": [
+        ".cb__join-content-item {min-width: 320px;}",
+        ".contenido {padding: 0;}",
+        ".cb__join-content-price-container p {font-size: 14px; font-weight: 900;}",
+        ".cb__join-content-price-container {padding: 1em 0;}",
+        "@media (min-width: 1023px) {.cb__container .section-template--21453850673472__5f2b6a8e-2922-4746-a075-fbe9c3be141a {padding-bottom: 160px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border-top": false,
+        "show-border-bottom": true,
+        "border-color": "#08393f",
+        "title": "<h2>¿Cómo Unirte?<\/h2>",
+        "title_color": "#bb1e1e",
+        "paragraph": "<h4><strong>*Podemos tener una habitación solo para ti, hablemos!<\/strong><\/h4><p><br\/>*Ahora puedes reservar tu lugar con un depósito inicial del 30%.<br\/>Luego, tienes hasta tres semanas antes del evento para cubrir el saldo restante.<br\/><br\/><strong>¡Así de sencillo!<\/strong><\/p>",
+        "paragraph_color": "#000000"
+      }
+    },
+    "f2971685-ff78-48be-a85a-ef59e961af85": {
+      "type": "cb-includes-events-details",
+      "blocks": {
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/santa-marta-banner.jpg",
+            "text": "<p><strong>Transportes Terrestres y Maritimos:<\/strong><br\/>Aeropuerto a Hotel Nattivo - Actividades en el interior de<br\/>la isla, regreso al Aeropuerto.<\/p>"
+          }
+        },
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_7.jpg",
+            "text": "<p><strong>Hospedaje<br\/>3 días 2 Noches.<\/strong><\/p>"
+          }
+        },
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_5.jpg",
+            "text": "<p><strong>Alimentación e hidratación completa durante toda la estadía.<\/strong><\/p>"
+          }
+        },
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_2.jpg",
+            "text": "<p><strong>Kit Oficial: Camiseta, Rashguard, Gorra, DryBag.<\/strong><\/p>"
+          }
+        },
+        "cc61d1f7-5c8e-4aca-a6ab-f9ec8d0d4055": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_8.jpg",
+            "text": "<p><strong>Seguro de Viaje.<\/strong><\/p>"
+          }
+        },
+        "8fe54520-2fae-486e-8183-3cc22d7a3a60": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_1.jpg",
+            "text": "<p><strong>Gestión de aliados, permisos y adecuación de lugares para el desarrollo de las actividades.<\/strong><\/p>"
+          }
+        },
+        "3e99f841-0279-4196-a3c1-06fc132710ed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_6.jpg",
+            "text": "<p><strong>Pack Audiovisual<br\/>(20 fotos editadas + 1 reel oficial)<\/strong><\/p>"
+          }
+        },
+        "66332f60-4d47-4a53-bd49-6e5ccc6966e3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_3.jpg",
+            "text": "<p><strong>Y algunas sorpresas más<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-1",
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-2",
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-3",
+        "template--21453850673472__f2971685-ff78-48be-a85a-ef59e961af85-column-4",
+        "cc61d1f7-5c8e-4aca-a6ab-f9ec8d0d4055",
+        "8fe54520-2fae-486e-8183-3cc22d7a3a60",
+        "3e99f841-0279-4196-a3c1-06fc132710ed",
+        "66332f60-4d47-4a53-bd49-6e5ccc6966e3"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "heading": "<h2>¿Qué Incluye?<\/h2>"
+      }
+    },
+    "1a4975bf-3a60-4d0d-bdaf-2e2558f2f7d0": {
+      "type": "cb-no-includes-events-details",
+      "blocks": {
+        "066851d5-1a83-462a-8f20-d5863b18d4b8": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Tiquetes Aéreos<\/strong><\/p>"
+          }
+        },
+        "33bd2d71-c6c8-41c2-89de-bd92c7a675ad": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Alimentación Adicional<\/strong><\/p>"
+          }
+        },
+        "b5388bc0-706a-4bc5-a4ce-45601c54d28f": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Bebidas Adicionales<\/strong><\/p>"
+          }
+        },
+        "d4649008-d10c-4aa6-8212-b2337f466a1e": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Transporte Adicional<\/strong><\/p>"
+          }
+        },
+        "f9f774e1-8e9c-44aa-9ac0-80913120d39e": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Licor<\/strong><\/p>"
+          }
+        },
+        "e4244cf0-6769-4de8-84eb-685e91051fc8": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Propinas<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "066851d5-1a83-462a-8f20-d5863b18d4b8",
+        "33bd2d71-c6c8-41c2-89de-bd92c7a675ad",
+        "b5388bc0-706a-4bc5-a4ce-45601c54d28f",
+        "d4649008-d10c-4aa6-8212-b2337f466a1e",
+        "f9f774e1-8e9c-44aa-9ac0-80913120d39e",
+        "e4244cf0-6769-4de8-84eb-685e91051fc8"
+      ],
+      "custom_css": [
+        "@media (max-width: 800px) {.cb__show-border-bottom {padding-bottom: 80px; } .cb__show-border-top {padding-top: 80px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show-border-top": true,
+        "show-border-bottom": true,
+        "border-color": "#08393f",
+        "titulo": "<h2>¿Qué NO Incluye?<\/h2>",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "",
+        "parrafo_color": "#000000"
+      }
+    },
+    "bab021c5-1bc4-463f-985d-1fd170c3b794": {
+      "type": "cb-fullwidth-text-section",
+      "custom_css": [
+        "@media (max-width: 500px) {.cb__container {margin-bottom: 60px; }}"
+      ],
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 300,
+        "padding_bottom": 300,
+        "background_image": "shopify:\/\/shop_images\/banner-bottom.jpg",
+        "title": "",
+        "title_color": "#000000",
+        "title_alignment": "left"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0fcd4099-be09-4292-aed9-d5db6b98ba70",
+    "f3279bb5-8bc2-45c3-b2e1-42d59210a7f1",
+    "a00aad7b-581b-4bbb-b893-f2e278435018",
+    "da785b84-3924-4285-9b5b-bbd94a9c33fe",
+    "2eb5e686-363d-4e29-bfa5-054fda7735f8",
+    "5f2b6a8e-2922-4746-a075-fbe9c3be141a",
+    "f2971685-ff78-48be-a85a-ef59e961af85",
+    "1a4975bf-3a60-4d0d-bdaf-2e2558f2f7d0",
+    "bab021c5-1bc4-463f-985d-1fd170c3b794"
+  ]
+}

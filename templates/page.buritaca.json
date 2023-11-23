@@ -1,0 +1,342 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "b407b40b-c24d-4208-ad48-8db295f6a71d": {
+      "type": "cb-banner-events-details",
+      "custom_css": [
+        "@media (max-width: 500px) {.cb__place-container {right: auto; left: auto; } .cb__place-inner-container {padding: 1em 1.5em; }}"
+      ],
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 200,
+        "padding_bottom": 200,
+        "background_image": "shopify:\/\/shop_images\/buritaca-banner.jpg",
+        "title": "",
+        "title_color": "#000000",
+        "title_alignment": "left",
+        "location_text": "<p>Santa Marta Tayronaka<\/p>"
+      }
+    },
+    "3667b6e3-6ad4-432e-8ada-37e2a0648a18": {
+      "type": "cb-events-details",
+      "custom_css": [
+        "@media (max-width: 800px) {.contenido {display: grid; align-content: center; row-gap: 8px; } .cb__show-border-top {border-top-width: 0; }}",
+        "@media (min-width: 1023px) {.cb__container .section-template--21537908949312__3667b6e3-6ad4-432e-8ada-37e2a0648a18 {padding-bottom: 60px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 30,
+        "show-border-top": true,
+        "show-border-bottom": false,
+        "border-color": "#08393f",
+        "titulo": "<h2><strong>¡Descubre Tayronaka!<\/strong><\/h2>",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "<h5>Del 5 al 7 de Diciembre de 2023<br\/><\/h5>",
+        "parrafo_color": "#000000"
+      }
+    },
+    "ee851711-3ca6-4114-ad0f-d94d3185866e": {
+      "type": "cb-events-details",
+      "custom_css": [
+        "@media (min-width: 1023px) {.cb__container .section-template--21537908949312__ee851711-3ca6-4114-ad0f-d94d3185866e {padding-bottom: 60px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 20,
+        "show-border-top": true,
+        "show-border-bottom": false,
+        "border-color": "#08393f",
+        "titulo": "<h4><strong>Viajar con un propósito es como dar y recibir al mismo tiempo.<\/strong><\/h4>",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "<p>Te llevas recuerdos increíbles y, de paso, dejas algo bueno atrás. No solo te estarás llevando una experiencia única, sino que también estarás haciendo del mundo un sitio un poquito mejor.<\/p>",
+        "parrafo_color": "#000000"
+      }
+    },
+    "cddf3c63-e71a-47ea-9751-1fc537566a53": {
+      "type": "cb-events-details",
+      "blocks": {
+        "55dee8cb-48db-47db-9dcb-5fc9563508f3": {
+          "type": "right_content",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/siembra.svg",
+            "image_width": 100,
+            "details": "<p>Siembra de árboles con  intención<\/p>"
+          }
+        },
+        "5dad5f6c-8a0d-4581-8c78-9c884cd0a90d": {
+          "type": "right_content",
+          "settings": {
+            "icon_image": "shopify:\/\/shop_images\/liberacion.svg",
+            "image_width": 100,
+            "details": "<p>Liberación de especies silvestres<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "55dee8cb-48db-47db-9dcb-5fc9563508f3",
+        "5dad5f6c-8a0d-4581-8c78-9c884cd0a90d"
+      ],
+      "custom_css": [
+        "@media (min-width: 800px) {.contenedor-child {grid-template-columns: 1fr 1fr; }}",
+        ".cb__right-content-item:last-child {border-bottom: none;}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border-top": true,
+        "show-border-bottom": false,
+        "border-color": "#08393f",
+        "titulo": "<h2><strong>¿Qué Harás?<\/strong><\/h2>",
+        "titulo_color": "#000000",
+        "subtitulo": "<p>Conexión, buena vibra, e impacto positivo se funden en este viaje inolvidable. <\/p>",
+        "subtitulo_color": "#000000",
+        "parrafo": "<h5><strong>¿Estás listo para elevar tu conciencia y disfrutar tu planeta al máximo?<\/strong><\/h5>",
+        "parrafo_color": "#000000"
+      }
+    },
+    "adc43ae8-dd7d-4c09-941a-1cbe16ca00e7": {
+      "type": "cb-content-events-details",
+      "blocks": {
+        "847bd3ad-c53e-43e1-a448-51346189d5c0": {
+          "type": "join_content",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_4.jpg",
+            "details_text": "<p>Habitación Compartida<br\/>+<br\/>Baño privado en habitación<br\/>compartida<\/p>",
+            "details_price": "<h4>= $2.950.000<\/h4><p>*iva incluido<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "847bd3ad-c53e-43e1-a448-51346189d5c0"
+      ],
+      "custom_css": [
+        ".cb__join-content-item {min-width: 320px;}",
+        ".contenido {padding: 0;}",
+        ".cb__join-content-price-container p {font-size: 14px; font-weight: 900;}",
+        ".cb__join-content-price-container {padding: 1em 0;}",
+        "@media (min-width: 1023px) {.cb__container .section-template--21537908949312__adc43ae8-dd7d-4c09-941a-1cbe16ca00e7 {padding-bottom: 160px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border-top": true,
+        "show-border-bottom": true,
+        "border-color": "#08393f",
+        "title": "<h2>¿Cómo Unirte?<\/h2>",
+        "title_color": "#000000",
+        "paragraph": "<h4><strong>*Podemos tener una habitación solo para ti, hablemos!<\/strong><\/h4><p><br\/>*Ahora puedes reservar tu lugar con un depósito inicial del 30%.<br\/>Luego, tienes hasta tres semanas antes del evento para cubrir el saldo restante.<br\/><br\/><strong>¡Así de sencillo!<\/strong><\/p>",
+        "paragraph_color": "#000000"
+      }
+    },
+    "9ba099e1-0e6b-43c9-92ec-d0b7c94276bf": {
+      "type": "cb-includes-events-details",
+      "blocks": {
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/santa-marta-banner_7d929412-33f9-4b32-b1bf-8e24e2b99a3f.jpg",
+            "text": "<p><strong>Transportes Terrestres y Maritimos: <\/strong><br\/>Aeropuerto-Tayronaka-Tayrona-Mamancana-Aeropuerto<\/p>"
+          }
+        },
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_7.jpg",
+            "text": "<p><strong>Hospedaje<br\/>3 días 2 noches<\/strong><\/p>"
+          }
+        },
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_5.jpg",
+            "text": "<p><strong>Alimentación e  hidratación completa durante toda la estadía.<br\/>• Snack entre actividades<\/strong><\/p>"
+          }
+        },
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_2.jpg",
+            "text": "<p><strong>Kit Oficial: Camiseta, Rashguard, Gorra, DryBag.<br\/><\/strong><\/p>"
+          }
+        },
+        "73ca79eb-c7a0-4f36-b7c8-063b606bfa99": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tayrona-100.jpg",
+            "text": "<p><strong>Entradas al parque Tayrona<\/strong><\/p>"
+          }
+        },
+        "927e65b3-f4d9-4c03-a93e-1d6f00757f46": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_8.jpg",
+            "text": "<p><strong>Seguro de Viaje y seguros de asistencia médica<\/strong><\/p>"
+          }
+        },
+        "e9f9f922-7a6b-4e89-b3a1-97aebe65d89e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_1.jpg",
+            "text": "<p><strong>Gestión de aliados,  permisos y adecuación de lugares para el desarrollo de las actividades.<\/strong><\/p>"
+          }
+        },
+        "8d3705d9-a758-4537-8853-fa3f7d62b360": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_6.jpg",
+            "text": "<p><strong>Pack Audiovisual<br\/>(20 fotos editadas + 1 reel oficial).<\/strong><\/p>"
+          }
+        },
+        "89becbbd-d6e8-4454-8597-e20356474dbc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GSimgs_3.jpg",
+            "text": "<p><strong>Y algunas sorpresas más<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-1",
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-2",
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-3",
+        "template--21537908949312__9ba099e1-0e6b-43c9-92ec-d0b7c94276bf-column-4",
+        "73ca79eb-c7a0-4f36-b7c8-063b606bfa99",
+        "927e65b3-f4d9-4c03-a93e-1d6f00757f46",
+        "e9f9f922-7a6b-4e89-b3a1-97aebe65d89e",
+        "8d3705d9-a758-4537-8853-fa3f7d62b360",
+        "89becbbd-d6e8-4454-8597-e20356474dbc"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "heading": "<h2>¿Qué Incluye?<\/h2>"
+      }
+    },
+    "466226dc-be9f-41df-b482-7f48d164c2d5": {
+      "type": "cb-no-includes-events-details",
+      "blocks": {
+        "110188a5-00ea-465b-af3f-bd14cc3df65c": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Tiquetes Aéreos<\/strong><\/p>"
+          }
+        },
+        "78dbc5e9-9cb3-4a4d-b732-edc1c2cb499f": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Alimentación Adicional<\/strong><\/p>"
+          }
+        },
+        "820c8cee-37cd-4484-aa00-023667d02719": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Bebidas Adicionales<\/strong><\/p>"
+          }
+        },
+        "c774b80a-08cc-4a59-b609-da6a4395aacc": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Transporte Adicional<\/strong><\/p>"
+          }
+        },
+        "67f41019-28bd-4537-a193-2af96d2c7045": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Licor<\/strong><\/p>"
+          }
+        },
+        "bedb56c0-95e3-4f4c-8342-b5e843ea2fe5": {
+          "type": "right_content",
+          "settings": {
+            "details": "<p><strong>Propinas<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "110188a5-00ea-465b-af3f-bd14cc3df65c",
+        "78dbc5e9-9cb3-4a4d-b732-edc1c2cb499f",
+        "820c8cee-37cd-4484-aa00-023667d02719",
+        "c774b80a-08cc-4a59-b609-da6a4395aacc",
+        "67f41019-28bd-4537-a193-2af96d2c7045",
+        "bedb56c0-95e3-4f4c-8342-b5e843ea2fe5"
+      ],
+      "custom_css": [
+        "@media (max-width: 800px) {.cb__show-border-bottom {padding-bottom: 80px; } .cb__show-border-top {padding-top: 80px; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show-border-top": true,
+        "show-border-bottom": false,
+        "border-color": "#08393f",
+        "titulo": "<h2>¿Qué NO Incluye?<\/h2>",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "",
+        "parrafo_color": "#000000"
+      }
+    },
+    "659d8313-02f5-4102-8110-bd50ef903062": {
+      "type": "cb-itinerary-events-details",
+      "custom_css": [
+        ".contenedor-child {border-bottom: 1px solid; border-radius: 0px; border-top: 1px solid;}",
+        "@media (max-width: 800px) {.contenedor-child {padding-block: 4em; } .cb__container.section-id-template--21537908949312__659d8313-02f5-4102-8110-bd50ef903062 {padding-bottom: 0; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "<h2>Itinerario<\/h2>",
+        "title_color": "#000000",
+        "subtitle": "<p>Nuestros expertos y embajadores #GreenSouls acompañarán al grupo de almas verdes desde su llegada a la ciudad y tendremos los siguientes momentos durante 3 días:<\/p>",
+        "subtitle_color": "#000000",
+        "paragraph": "",
+        "paragraph_color": "#000000",
+        "block_buttons": true,
+        "button_label_1": "<p>Aparta tu cupo<\/p>",
+        "button_link_1": "shopify:\/\/products\/buritaca",
+        "button_label_2": "<p>Entérate de más<br\/><strong>Descarga el itinerario<\/strong><\/p>",
+        "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/0819\/9674\/2976\/files\/Turismo_con_proposito_Sponsors_TAIRONAKA.pdf?v=1700745782"
+      }
+    },
+    "23da70e2-0b5a-496a-86db-7d536dc44aee": {
+      "type": "cb-fullwidth-text-section",
+      "custom_css": [
+        "@media (max-width: 500px) {.default-section-template--21537908949312__23da70e2-0b5a-496a-86db-7d536dc44aee.cb__background-image {padding-top: 100px; padding-bottom: 100px; } .section-id-template--21537908949312__23da70e2-0b5a-496a-86db-7d536dc44aee {margin-bottom: 2em; }}"
+      ],
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 300,
+        "padding_bottom": 300,
+        "background_image": "shopify:\/\/shop_images\/buritaca-banner-bottom.jpg",
+        "title": "",
+        "title_color": "#000000",
+        "title_alignment": "left"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b407b40b-c24d-4208-ad48-8db295f6a71d",
+    "3667b6e3-6ad4-432e-8ada-37e2a0648a18",
+    "ee851711-3ca6-4114-ad0f-d94d3185866e",
+    "cddf3c63-e71a-47ea-9751-1fc537566a53",
+    "adc43ae8-dd7d-4c09-941a-1cbe16ca00e7",
+    "9ba099e1-0e6b-43c9-92ec-d0b7c94276bf",
+    "466226dc-be9f-41df-b482-7f48d164c2d5",
+    "659d8313-02f5-4102-8110-bd50ef903062",
+    "23da70e2-0b5a-496a-86db-7d536dc44aee"
+  ]
+}

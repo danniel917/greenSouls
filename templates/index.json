@@ -1,0 +1,489 @@
+{
+  "sections": {
+    "995305b1-dca1-480f-98a4-ea14cf485263": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20824925438272__995305b1-dca1-480f-98a4-ea14cf485263-slideshow_item-1": {
+          "type": "slideshow_item",
+          "settings": {
+            "color_scheme": "theme-light",
+            "collection_title_1": "",
+            "collection_title_2": "",
+            "heading": "",
+            "slideshow_item_image": "shopify:\/\/shop_images\/slides_4.jpg",
+            "position_by_vertical": "center",
+            "opacity_overlay": 0,
+            "opacity_overlay_mobile": 0,
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "393461df-d022-4a58-8aeb-ea08fa84bf03": {
+          "type": "slideshow_item",
+          "settings": {
+            "color_scheme": "theme-light",
+            "collection_title_1": "",
+            "collection_title_2": "",
+            "heading": "",
+            "slideshow_item_image": "shopify:\/\/shop_images\/slides_1.jpg",
+            "position_by_vertical": "center",
+            "opacity_overlay": 0,
+            "opacity_overlay_mobile": 0,
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1c361bfb-9696-4f18-97a9-42726cd2e90c": {
+          "type": "slideshow_item",
+          "settings": {
+            "color_scheme": "theme-light",
+            "collection_title_1": "",
+            "collection_title_2": "",
+            "heading": "",
+            "slideshow_item_image": "shopify:\/\/shop_images\/slides_2.jpg",
+            "position_by_vertical": "top",
+            "opacity_overlay": 0,
+            "opacity_overlay_mobile": 0,
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "ef5a0ba6-6e77-46f9-a2d0-f15267759135": {
+          "type": "slideshow_item",
+          "settings": {
+            "color_scheme": "theme-light",
+            "collection_title_1": "",
+            "collection_title_2": "",
+            "heading": "",
+            "slideshow_item_image": "shopify:\/\/shop_images\/slides_3.jpg",
+            "position_by_vertical": "center",
+            "opacity_overlay": 0,
+            "opacity_overlay_mobile": 0,
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20824925438272__995305b1-dca1-480f-98a4-ea14cf485263-slideshow_item-1",
+        "393461df-d022-4a58-8aeb-ea08fa84bf03",
+        "1c361bfb-9696-4f18-97a9-42726cd2e90c",
+        "ef5a0ba6-6e77-46f9-a2d0-f15267759135"
+      ],
+      "custom_css": [
+        "#section-template--20824925438272__995305b1-dca1-480f-98a4-ea14cf485263 {margin-top: 30px;}",
+        "@media (min-width: 1023px) {#section-template--20824925438272__995305b1-dca1-480f-98a4-ea14cf485263 {margin-top: -120px; }}"
+      ],
+      "settings": {
+        "under_menu": true,
+        "heading_position": "top",
+        "is_autoplay": true,
+        "is_hover_stop_autoplay": false,
+        "parallax": false,
+        "slideshow_speed": 1.1,
+        "slideshow_delay": 8,
+        "slide_effects": "slide",
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "da835c52-ac00-418d-8cf6-a44a3fb90e96": {
+      "type": "cb-custom-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": true,
+        "border-color": "#00bacf",
+        "background-color": "#ffffff",
+        "show-icon": false,
+        "titulo": "Turismo con propósito",
+        "titulo_color": "#000000",
+        "subtitulo": "¿Alguna vez soñaste con liberar tortugas en el océano, limpiar playas o sembrar árboles?",
+        "subtitulo_color": "#000000",
+        "parrafo": "Este es tu momento, libérate y vamos a diferentes destinos al mejor estilo #GreenSouls",
+        "parrafo_color": "#000000",
+        "image": "shopify:\/\/shop_images\/greensouls-turismo-con-proposito.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "shopify:\/\/pages\/turismo-con-proposito",
+        "button_label_2": "Aparta tu cupo",
+        "button_link_2": "shopify:\/\/pages\/san-andres"
+      }
+    },
+    "b31ed9ff-ac90-41e8-b4d4-7424761edbc6": {
+      "type": "cb-navigation",
+      "blocks": {
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/limpieza-icon.svg",
+            "image_width": 150,
+            "text_link": "Limpieza de playas",
+            "link": ""
+          }
+        },
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/comunidades-icon.svg",
+            "image_width": 150,
+            "text_link": "Comunidades locales",
+            "link": ""
+          }
+        },
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/totuga-icon.svg",
+            "image_width": 150,
+            "text_link": "Liberación de especies",
+            "link": ""
+          }
+        },
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/siembra-icon.svg",
+            "image_width": 150,
+            "text_link": "Siembra de árboles",
+            "link": ""
+          }
+        },
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/corales-icon.svg",
+            "image_width": 150,
+            "text_link": "Siembra de corales",
+            "link": ""
+          }
+        },
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/turismo-icon.svg",
+            "image_width": 150,
+            "text_link": "Turismo con propósito",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-1",
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-2",
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-3",
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-4",
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-5",
+        "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-6"
+      ],
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 80
+      }
+    },
+    "a2da823e-f764-4d85-a407-b9f0bbcd092f": {
+      "type": "cb-fullwidth-section",
+      "custom_css": [
+        ".cb__title-text {font-size: 40px; font-weight: 500;}",
+        "@media (max-width: 500px) {.cb__title-text {font-size: 24px; }}"
+      ],
+      "settings": {
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "background_image": "shopify:\/\/shop_images\/greensouls-pasa-a-la-accion-bg_c23df10e-5db3-4459-b036-284f3d7fc9a4.jpg",
+        "title": "“Muchas personas, en lugares pequeños, haciendo cosas pequeñas, pueden cambiar el mundo.”",
+        "title_color": "#ffffff",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "",
+        "paragraph_color": "#000000",
+        "image": "shopify:\/\/shop_images\/greensouls-pasa-a-la-accion_c6dd2416-d9d7-463e-b455-3e5a97bc1d6a.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "shopify:\/\/pages\/pasa-a-la-accion",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "a5aa8c31-650a-4d37-9253-8abc557f7df4": {
+      "type": "cb-custom-section",
+      "custom_css": [
+        ".contenedor-child {column-gap: 0;}",
+        ".cb__title-text {font-size: 40px; font-weight: 500;}",
+        "@media (max-width: 500px) {.cb__title-text {font-size: 24px; } .section-id-template--20824925438272__a5aa8c31-650a-4d37-9253-8abc557f7df4 {padding-bottom: 0; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": false,
+        "border-color": "#08393f",
+        "background-color": "#ffffff",
+        "show-icon": false,
+        "titulo": "¡Únete al parche!<br>Podcast GreenSouls",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "",
+        "parrafo_color": "#000000",
+        "image": "shopify:\/\/shop_images\/podcast-img-100.jpg",
+        "block_buttons": true,
+        "button_label_1": "Visitanos en Youtube",
+        "button_link_1": "https:\/\/www.youtube.com\/channel\/UCjUqsbUFTVtZ_Qp0ClFuosg",
+        "button_label_2": "Visitanos en Spotify",
+        "button_link_2": "https:\/\/open.spotify.com\/show\/6LPNUbGKI4Huv1EQvSQvJY?si=b58c4d9e00b841bc"
+      }
+    },
+    "1b3beeaf-b19e-4a20-aa97-d50aaf945f42": {
+      "type": "cb-partners-section",
+      "blocks": {
+        "2ef69506-73c8-4af7-8bf1-243413ce8472": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/corona_927d17dd-ee2a-405f-9f87-6a5c8ce6a105.jpg",
+            "image_width": 150
+          }
+        },
+        "a92ab34d-7ecf-422e-832f-863be297104b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/localiza_87709c8c-d3a1-4805-9591-6fb4b86281ae.jpg",
+            "image_width": 150
+          }
+        },
+        "781bfca8-0d58-4445-950c-8c20d4c8bc98": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/isdin_3df03a3c-25c4-498c-bc60-d48084dd1a65.jpg",
+            "image_width": 150
+          }
+        },
+        "ae14319d-11ad-4629-9e81-2aea7d161d1c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eltesoro.jpg",
+            "image_width": 150
+          }
+        },
+        "a33640d3-5f6e-4585-bb27-00b1f3a7a572": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/task_f6a21ceb-b53d-4691-a8d3-76dfa60dfa39.jpg",
+            "image_width": 150
+          }
+        },
+        "40613a17-e7f7-4429-85d8-5db1e7c100b5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dislicores.jpg",
+            "image_width": 150
+          }
+        },
+        "6b99cbd2-19cc-44c6-91ea-12cc8bcc0563": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arnette.jpg",
+            "image_width": 150
+          }
+        },
+        "53c94270-e825-4dd4-aefc-dd4631fa5d6e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maaji.jpg",
+            "image_width": 150
+          }
+        },
+        "110593aa-f5a2-4c49-a7ab-36b743abce6a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/uniples.jpg",
+            "image_width": 150
+          }
+        },
+        "34bce54f-0249-4cb2-a7c6-0f5a4c4a40c8": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tajin.jpg",
+            "image_width": 150
+          }
+        },
+        "f28f980f-89b4-419a-8848-84b35d89c1d0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bioderma.jpg",
+            "image_width": 150
+          }
+        },
+        "b65a6671-dea7-43b9-aa01-b77eef0d628f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/loccitane.jpg",
+            "image_width": 150
+          }
+        },
+        "37189be6-3fb0-4adc-820a-8744f1a7dd35": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chamela.jpg",
+            "image_width": 150
+          }
+        },
+        "2669221b-4f0f-47c3-9214-103d4fd89e75": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/american-eagle.jpg",
+            "image_width": 150
+          }
+        },
+        "d499d102-b4c1-487a-b9ee-35d170a3b5d5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/parmessano.jpg",
+            "image_width": 150
+          }
+        },
+        "9df77d0e-2594-4861-8555-934e7f368d22": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/converzzo.jpg",
+            "image_width": 150
+          }
+        },
+        "31c12ff7-ac66-4301-9a93-a27f4eccce73": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hd-opticas.jpg",
+            "image_width": 150
+          }
+        },
+        "025acbac-218a-467c-a9a6-f01d1a53c391": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ABC.jpg",
+            "image_width": 150
+          }
+        },
+        "fa232a1d-e9b3-455e-8d9b-7465315353ba": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ceipa.jpg",
+            "image_width": 150
+          }
+        },
+        "afa4617c-51df-4828-a3d7-56266cf50413": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nosotras.jpg",
+            "image_width": 150
+          }
+        },
+        "11a671ac-17fe-453c-8632-b8541b0add56": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jet.jpg",
+            "image_width": 150
+          }
+        },
+        "d358187d-bc41-4017-aabf-a03bea94add2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wwf.jpg",
+            "image_width": 150
+          }
+        },
+        "b212135b-a243-4667-beff-d92a84934d92": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/oneill.jpg",
+            "image_width": 150
+          }
+        },
+        "90fd7329-dd43-40df-a1db-ca5e41aeebc6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kalley.jpg",
+            "image_width": 150
+          }
+        },
+        "d4df0ba2-1933-4a75-95f7-a1e903fa0db6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hilton.jpg",
+            "image_width": 150
+          }
+        },
+        "20f17439-5001-4a03-88c7-d0342f31b7a4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avianca_32087feb-5ea0-4ffb-9c73-a15046b6a0be.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "2ef69506-73c8-4af7-8bf1-243413ce8472",
+        "a92ab34d-7ecf-422e-832f-863be297104b",
+        "781bfca8-0d58-4445-950c-8c20d4c8bc98",
+        "ae14319d-11ad-4629-9e81-2aea7d161d1c",
+        "a33640d3-5f6e-4585-bb27-00b1f3a7a572",
+        "40613a17-e7f7-4429-85d8-5db1e7c100b5",
+        "6b99cbd2-19cc-44c6-91ea-12cc8bcc0563",
+        "53c94270-e825-4dd4-aefc-dd4631fa5d6e",
+        "110593aa-f5a2-4c49-a7ab-36b743abce6a",
+        "34bce54f-0249-4cb2-a7c6-0f5a4c4a40c8",
+        "f28f980f-89b4-419a-8848-84b35d89c1d0",
+        "b65a6671-dea7-43b9-aa01-b77eef0d628f",
+        "37189be6-3fb0-4adc-820a-8744f1a7dd35",
+        "2669221b-4f0f-47c3-9214-103d4fd89e75",
+        "d499d102-b4c1-487a-b9ee-35d170a3b5d5",
+        "9df77d0e-2594-4861-8555-934e7f368d22",
+        "31c12ff7-ac66-4301-9a93-a27f4eccce73",
+        "025acbac-218a-467c-a9a6-f01d1a53c391",
+        "fa232a1d-e9b3-455e-8d9b-7465315353ba",
+        "afa4617c-51df-4828-a3d7-56266cf50413",
+        "11a671ac-17fe-453c-8632-b8541b0add56",
+        "d358187d-bc41-4017-aabf-a03bea94add2",
+        "b212135b-a243-4667-beff-d92a84934d92",
+        "90fd7329-dd43-40df-a1db-ca5e41aeebc6",
+        "d4df0ba2-1933-4a75-95f7-a1e903fa0db6",
+        "20f17439-5001-4a03-88c7-d0342f31b7a4"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "show-border": true,
+        "border-color": "#08393f",
+        "titulo": "Ellos ya hacen parte del cambio",
+        "subtitulo": ""
+      }
+    },
+    "e487752c-6330-4c56-a330-379ea8bb77d6": {
+      "type": "cb-fullwidth-text-section",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "fullwidth_section": true,
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "background_image": "shopify:\/\/shop_images\/text-bg.jpg",
+        "title": "<p>“La tierra es lo que tenemos todos en común”<\/p>",
+        "title_color": "#ffffff",
+        "title_alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "995305b1-dca1-480f-98a4-ea14cf485263",
+    "da835c52-ac00-418d-8cf6-a44a3fb90e96",
+    "b31ed9ff-ac90-41e8-b4d4-7424761edbc6",
+    "a2da823e-f764-4d85-a407-b9f0bbcd092f",
+    "a5aa8c31-650a-4d37-9253-8abc557f7df4",
+    "1b3beeaf-b19e-4a20-aa97-d50aaf945f42",
+    "e487752c-6330-4c56-a330-379ea8bb77d6"
+  ]
+}

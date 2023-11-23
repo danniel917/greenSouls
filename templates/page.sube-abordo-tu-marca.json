@@ -1,0 +1,524 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "799be7ac-e704-46d4-8a8d-b0405828e293": {
+      "type": "cb-custom-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": false,
+        "border-color": "#08393f",
+        "background-color": "#000000",
+        "show-icon": true,
+        "icono": "shopify:\/\/shop_images\/arrow-white.svg",
+        "titulo": "Sube abordo tu marca",
+        "titulo_color": "#ffffff",
+        "subtitulo": "",
+        "subtitulo_color": "#ffffff",
+        "parrafo": "Sé parte del cambio, permitele a tu marca crecer de forma sostenible, contáctanos y conoce todo lo que GreenSouls te puede ofrecer.",
+        "parrafo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/green-souls-Sube-abordo-tu_marca-banner.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "04206e08-55f6-4637-8acd-5feda3ad4511": {
+      "type": "cb-fullwidth-text-section",
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 150,
+        "padding_bottom": 150,
+        "background_image": "shopify:\/\/shop_images\/sube-abordo-tu-marca-aliados.jpg",
+        "title": "<p>Nuestras campañas y aliados<\/p>",
+        "title_color": "#ffffff",
+        "title_alignment": "right"
+      }
+    },
+    "b3bb5d01-f2ea-41bc-8919-d60c51f369f1": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Gigantes Azules",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "¡Este si que fue un viaje emocionante en #GreenSouls!",
+        "subtitle_color": "#000000",
+        "paragraph": "En nuestra última aventura, conocimos las playas de Nuquí, Chocó, descubriendo un mundo fascinante de vida marina  y conectando con las comunidades locales de una manera que dejó huella.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/_Ll67pdTYtg",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "cffb14e2-7b20-439c-b1d6-4d108ea358f6": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Blue Wave - ISDIN X GreenSouls",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "¡Increíble es la palabra para describir esta experiencia!",
+        "subtitle_color": "#000000",
+        "paragraph": "En una nueva ocasión junto a ISDIN        tuvimos la oportunidad de limpiar playas, liberar especies silvestres  y sembrar        árboles nativos, mientras nos cuidamos del sol, utilizando nuestro fotoprotector favorito.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/lBH1UMxTaxE",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "84f60cf7-2565-4ed8-987c-6c4e6a8e9d37": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "American Eagle X GreenSouls",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Es aquí donde te compartimos el resultados de un excelente trabajo en equipo para donar 9903 jeans recolectados alrededor de todo el país, con un cumplimiento del 124%, superando la meta de 8000 jeans             esperada para el 2022.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/lrcdR8IVBIE",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "5460f694-9a26-4f12-9e32-573a133b0ee6": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "GAIA #TerraFest",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Celebramos el Día de la Tierra de una manera muy especial: liberando tortugas marinas sembrando corales limpiando nuestras playas y apoyando positivamente a comunidades locales donando equipos deportivos y elementos de aseo y de cocina. Fue increíble ver cómo nuestras acciones pueden hacer una gran diferencia en la preservación del medio ambiente .",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/dDce8zabrCA",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "2e4e6a19-6a41-4d3e-b1dc-7f3a89c46864": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Amazonas: El Corazón de La Tierra",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "On Vacation X GreenSouls",
+        "subtitle_color": "#000000",
+        "paragraph": "Visitamos el Amazonas junto a On Vacation: Una experiencia única en el corazón del Amazonas colombiano celebrando los 10 años de la empresa, para sembrar 500 plántulas de Copoazú, Arazá, Açaí y Guama, y además limpiar las cuencas del Río Amazonas, donde pudimos dejar una huella ecológica y social significativa entregando 50 kits escolares a las comunidades locales de indígenas.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/OZvlgBJ_GkY",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "c37b2f3f-6255-486d-b350-a2c509c57c81": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Un Arrecife de Vida",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "A través del uso de tecnología y principios de economía circular y colaborativa, Dislicores y GREENSOULS han iniciado el proyecto \"Un Arrecife de Vida\".",
+        "subtitle_color": "#000000",
+        "paragraph": "Este proyecto tiene como objetivo transformar más de 1 tonelada de vidrio reciclado en materia prima para la construcción de bases donde se sembrarán más de 20.000 fragmentos de coral en las guarderías de coral de la fundación CIMCaribe, junto con CorpaMag y el Acuario del Rodadero, creando un impacto ambiental y social positivo.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/W7jJ77_rWwk",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "c405ecb2-72fb-41d4-8937-646673f56c9f": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "La Magia de los Corales",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "Una Aventura con propósito que une a marcas y reconocidas figuras públicas para proteger el ecosistema más biodiverso del océano:",
+        "subtitle_color": "#000000",
+        "paragraph": "Sembramos más de 250 fragmentos de Corales. Donamos una cámara sub-acuática a jóvenes biólogos marinos para mejorar el monitoreo de las guarderías de coral. Donamos indumentaria deportiva a los biólogos para que puedan desempeñar su labor en el día a día mientras protegen su piel de los rayos UV del sol.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/7-SETvWwhxM",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "198c7d48-4e02-4431-94bc-121ec12c41e0": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Dona Tu Jean, Ama tu Planeta.",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "Con el objetivo de darles una segunda oportunidad a miles de jeans y ayudar a salvar el planeta, la campaña ‘Dona Tu Jean’ de American Eagle y GreenSouls iniciaba con la meta de recolectar 8.000 jeans para ser donados a distintas comunidades de recicladores del país.",
+        "subtitle_color": "#000000",
+        "paragraph": "Recogimos más de 9.900 Jeans. Comunidades locales beneficiadas en San Andrés, Santa Marta, Cartagena, Medellín y Nuquí.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/grAVhv9pZ4s",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "66682a72-9b09-4584-a911-474345a2ee43": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Sembrando un Mundo Mejor.",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "Más de 90 almas verdes unidas para sembrar conocimiento, esperanza y vida:",
+        "subtitle_color": "#000000",
+        "paragraph": "Donamos 34 computadores a un colegio dondese benefician directamente a más de 500 estudiantes de comunidades locales. Donamos 4 becas universitarias a jóvenes estudiantes de comunidades locales para que seformen como profesionales. Liberamos animales de 5 especies silvestresentre: Halcón, lechuza, culebra, tortuga y perico. Sembramos más de 150 árboles nativos. Recogimos más de 650 Kg de desperdicios enuna limpieza de playa.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/UehLE2tGqjU",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "68fc2476-e8f2-4cf2-9524-c35b79234d43": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Sea Friendly Love ISDIN",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "ISDIN se une a GreenSouls para proteger los océanos con diferentes iniciativas. Con tus compras de productos ISDIN, nos ayudarás a mantener un océano más limpio.",
+        "subtitle_color": "#000000",
+        "paragraph": "Descubre cómo puedes ganar puntos aquí. Por cada 150 puntos canjeados ISDIN donará 25.000 COP a nuestras diferentes activaciones de limpieza de playas.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/WcZmoAsnDMI",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "0fc2d4b4-9f3c-4fad-a886-969085c0920a": {
+      "type": "cb-aliados-section",
+      "blocks": {
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-09.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/localiza.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-17.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-14.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/task.jpg",
+            "image_width": 150
+          }
+        },
+        "1678bdf1-f2b3-4621-bfe0-bd5549cf4954": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-20.jpg",
+            "image_width": 150
+          }
+        },
+        "7f70f448-4d23-41bb-83ea-ed824a10ee59": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avianca.jpg",
+            "image_width": 150
+          }
+        },
+        "739ee37c-eef0-4d12-a6b6-368bf4a8d7cf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-04.jpg",
+            "image_width": 150
+          }
+        },
+        "195f3982-1d17-43e2-8a6d-fa55e79ebacf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/onvacation.jpg",
+            "image_width": 150
+          }
+        },
+        "830b8501-f3bb-4bbb-8e3b-59e90d12cca2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-05.jpg",
+            "image_width": 150
+          }
+        },
+        "0846bb67-c82e-4bb6-9038-58ebcda0d949": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-02.jpg",
+            "image_width": 150
+          }
+        },
+        "9a52b3dd-5ed0-404c-a3aa-6ae3c1d62165": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-16.jpg",
+            "image_width": 150
+          }
+        },
+        "16441d41-7264-41c2-bf3b-2c4b2b075865": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-12.jpg",
+            "image_width": 150
+          }
+        },
+        "0ffb5e58-fed2-40c1-ba38-e9f97ed3bb4a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-10.jpg",
+            "image_width": 150
+          }
+        },
+        "fddc4c74-3ac3-4c59-8454-066434da2f5d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-01.jpg",
+            "image_width": 150
+          }
+        },
+        "8575a2e8-5275-4659-8455-3050589206c7": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-15.jpg",
+            "image_width": 150
+          }
+        },
+        "c9e5cbcc-be93-4c97-8ec0-beacd679c39a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-18.jpg",
+            "image_width": 150
+          }
+        },
+        "2945cab4-e573-4b5e-8d78-a208521e5eb8": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-11.jpg",
+            "image_width": 150
+          }
+        },
+        "c8f8296d-d490-4b9b-9fe2-3e5b51ab6c55": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-13.jpg",
+            "image_width": 150
+          }
+        },
+        "05e56f55-0ec6-496e-a38a-48cdb0be13db": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-07.jpg",
+            "image_width": 150
+          }
+        },
+        "0354446d-37d9-4bd6-bc9d-7ff8a39e56cf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marcas-08.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-1",
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-2",
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-3",
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-4",
+        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-5",
+        "1678bdf1-f2b3-4621-bfe0-bd5549cf4954",
+        "7f70f448-4d23-41bb-83ea-ed824a10ee59",
+        "739ee37c-eef0-4d12-a6b6-368bf4a8d7cf",
+        "195f3982-1d17-43e2-8a6d-fa55e79ebacf",
+        "830b8501-f3bb-4bbb-8e3b-59e90d12cca2",
+        "0846bb67-c82e-4bb6-9038-58ebcda0d949",
+        "9a52b3dd-5ed0-404c-a3aa-6ae3c1d62165",
+        "16441d41-7264-41c2-bf3b-2c4b2b075865",
+        "0ffb5e58-fed2-40c1-ba38-e9f97ed3bb4a",
+        "fddc4c74-3ac3-4c59-8454-066434da2f5d",
+        "8575a2e8-5275-4659-8455-3050589206c7",
+        "c9e5cbcc-be93-4c97-8ec0-beacd679c39a",
+        "2945cab4-e573-4b5e-8d78-a208521e5eb8",
+        "c8f8296d-d490-4b9b-9fe2-3e5b51ab6c55",
+        "05e56f55-0ec6-496e-a38a-48cdb0be13db",
+        "0354446d-37d9-4bd6-bc9d-7ff8a39e56cf"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": true,
+        "border-color": "#08393f",
+        "titulo": "Nuestros aliados:",
+        "subtitulo": "Ellos ya hacen parte del cambio"
+      }
+    },
+    "53f98462-90dc-4e01-b04c-1d0fe70f0d0c": {
+      "type": "cb-contact-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "media_alignment": "left",
+        "title": "Contáctanos",
+        "title_size": 32,
+        "title_color": "#ffffff",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph_1": "<p>Es posible tener un futuro mejor.<br\/>Contáctanos para saber más<br\/>sobre nuestra misión y trabajo<br\/>o para participar.<\/p>",
+        "paragraph_2": "<p><a href=\"mailto:l.tovar@greensoulsglobal.com\" target=\"_blank\" title=\"mailto:l.tovar@greensoulsglobal.com\">l.tovar@greensoulsglobal.com<\/a><br\/><a href=\"mailto:camilo@greensoulsglobal.com\" target=\"_blank\" title=\"mailto:camilo@greensoulsglobal.com\">camilo@greensoulsglobal.com<\/a><\/p>",
+        "paragraph_3": "<p>COL: +57 (304)285-0408<br\/>USA: +1 (909) 765-6553<\/p>",
+        "paragraph": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "799be7ac-e704-46d4-8a8d-b0405828e293",
+    "04206e08-55f6-4637-8acd-5feda3ad4511",
+    "b3bb5d01-f2ea-41bc-8919-d60c51f369f1",
+    "cffb14e2-7b20-439c-b1d6-4d108ea358f6",
+    "84f60cf7-2565-4ed8-987c-6c4e6a8e9d37",
+    "5460f694-9a26-4f12-9e32-573a133b0ee6",
+    "2e4e6a19-6a41-4d3e-b1dc-7f3a89c46864",
+    "c37b2f3f-6255-486d-b350-a2c509c57c81",
+    "c405ecb2-72fb-41d4-8937-646673f56c9f",
+    "198c7d48-4e02-4431-94bc-121ec12c41e0",
+    "66682a72-9b09-4584-a911-474345a2ee43",
+    "68fc2476-e8f2-4cf2-9524-c35b79234d43",
+    "0fc2d4b4-9f3c-4fad-a886-969085c0920a",
+    "53f98462-90dc-4e01-b04c-1d0fe70f0d0c"
+  ]
+}

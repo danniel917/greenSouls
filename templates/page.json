@@ -1,0 +1,434 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "857dc8d2-c6ed-4e33-a139-ac687495928e": {
+      "type": "cb-fullwidth-text-section",
+      "custom_css": [
+        ".cb__title-text {text-shadow: 0 5px 5px #00000050;}"
+      ],
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 200,
+        "padding_bottom": 200,
+        "background_image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas.jpg",
+        "title": "<p><strong>¡Las almas verdes trabajamos juntas!<\/strong><\/p>",
+        "title_color": "#ffffff",
+        "title_alignment": "left"
+      }
+    },
+    "1e3726b5-583a-4192-a5ac-161966b4b06a": {
+      "type": "image-tabs",
+      "blocks": {
+        "template--20824925733184__1e3726b5-583a-4192-a5ac-161966b4b06a-image-tabs_item-1": {
+          "type": "image-tabs_item",
+          "settings": {
+            "tab_title": "Limpieza de playas",
+            "image_tabs": "shopify:\/\/shop_images\/Limpieza_de_playas.jpg",
+            "button_link": "#limpieza-de-playas"
+          }
+        },
+        "template--20824925733184__1e3726b5-583a-4192-a5ac-161966b4b06a-image-tabs_item-2": {
+          "type": "image-tabs_item",
+          "settings": {
+            "tab_title": "Comunidades locales",
+            "image_tabs": "shopify:\/\/shop_images\/Comunidades_locales.jpg",
+            "button_link": ""
+          }
+        },
+        "template--20824925733184__1e3726b5-583a-4192-a5ac-161966b4b06a-image-tabs_item-3": {
+          "type": "image-tabs_item",
+          "settings": {
+            "tab_title": "Liberación de especies",
+            "image_tabs": "shopify:\/\/shop_images\/Liberacion_de_especies.jpg",
+            "button_link": ""
+          }
+        },
+        "a51060cd-8a8d-4bff-8cc9-c7d01ace647f": {
+          "type": "image-tabs_item",
+          "settings": {
+            "tab_title": "Siembra de árboles",
+            "image_tabs": "shopify:\/\/shop_images\/Siembra_de_arboles.jpg",
+            "button_link": ""
+          }
+        },
+        "59b87439-168e-4310-850b-0a3723927d3b": {
+          "type": "image-tabs_item",
+          "settings": {
+            "tab_title": "Siembra de corales",
+            "image_tabs": "shopify:\/\/shop_images\/slides_4.jpg",
+            "button_link": ""
+          }
+        },
+        "e13797ea-0a99-477d-8333-dfce7f57504d": {
+          "type": "image-tabs_item",
+          "settings": {
+            "tab_title": "Turismo con propósito",
+            "image_tabs": "shopify:\/\/shop_images\/Turismo_con_proposito.jpg",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20824925733184__1e3726b5-583a-4192-a5ac-161966b4b06a-image-tabs_item-1",
+        "template--20824925733184__1e3726b5-583a-4192-a5ac-161966b4b06a-image-tabs_item-2",
+        "template--20824925733184__1e3726b5-583a-4192-a5ac-161966b4b06a-image-tabs_item-3",
+        "a51060cd-8a8d-4bff-8cc9-c7d01ace647f",
+        "59b87439-168e-4310-850b-0a3723927d3b",
+        "e13797ea-0a99-477d-8333-dfce7f57504d"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "slide_effects": "slide-vertical",
+        "subheading": "",
+        "heading": "",
+        "collection_title_1": "",
+        "collection_title_2": "",
+        "margin_top": 0,
+        "margin_bottom": 50
+      }
+    },
+    "466e3d76-0233-4c9f-b42c-d1950c90e730": {
+      "type": "cb-columns-section",
+      "blocks": {
+        "template--20824925733184__466e3d76-0233-4c9f-b42c-d1950c90e730-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-limpieza-de-playas_3.jpg",
+            "image_width": 150
+          }
+        },
+        "template--20824925733184__466e3d76-0233-4c9f-b42c-d1950c90e730-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-limpieza-de-playas_4.jpg",
+            "image_width": 150
+          }
+        },
+        "template--20824925733184__466e3d76-0233-4c9f-b42c-d1950c90e730-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-limpieza-de-playas_1.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "template--20824925733184__466e3d76-0233-4c9f-b42c-d1950c90e730-image-1",
+        "template--20824925733184__466e3d76-0233-4c9f-b42c-d1950c90e730-image-2",
+        "template--20824925733184__466e3d76-0233-4c9f-b42c-d1950c90e730-image-3"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "right",
+        "title": "Cada minuto, es el equivalente a un camión de basura lleno de plástico se arroja al mar.",
+        "title_size": 24,
+        "title_color": "#000000",
+        "subtitle": "Súmate a un grupo de almas verdes dispuestos a ser la solución y participa en una experiencia única. Disfruta de un día de mar, playa, buena vibra y propósito al mejor estilo #Greensouls.",
+        "subtitle_color": "#000000",
+        "paragraph": "El océano es la fuente de la vida en nuestro planeta. Debemos tomar acción para reducir el desperdicio     generado por los humanos que está ahogando a nuestros océanos.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=dDce8zabrCA",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "48a39579-0ed7-4b2b-9d42-89f289922c69": {
+      "type": "cb-columns-section",
+      "blocks": {
+        "fa9de17f-e401-411a-aa88-82762776b067": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nuestras-iniciativas_2.jpg",
+            "image_width": 150
+          }
+        },
+        "cc475f79-8af1-4146-849a-7d162594acbd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nuestras-iniciativas_3.jpg",
+            "image_width": 150
+          }
+        },
+        "5e1f1f16-e31e-4a7b-b018-53a8c3c24ca5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nuestras-iniciativas_1.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "fa9de17f-e401-411a-aa88-82762776b067",
+        "cc475f79-8af1-4146-849a-7d162594acbd",
+        "5e1f1f16-e31e-4a7b-b018-53a8c3c24ca5"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "El cambio empieza cuando logramos entender que estamos en esta tierra para entregar.",
+        "title_size": 24,
+        "title_color": "#000000",
+        "subtitle": "Greensouls busca generar un impacto positivo real en las comunidades que vinculamos a nuestros eventos, y generar un mensaje de unión, de esperanza y de empatía entre hermanos de la misma madre: LA TIERRA.",
+        "subtitle_color": "#000000",
+        "paragraph": "Conoce más sobre tu cultura, conéctate con tu país y entreguemos felicidad juntos a tantos que hoy necesitan de nuestra ayuda para mejorar su calidad de vida.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=_Ll67pdTYtg",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "6bdab50b-e8d3-4dd2-aafc-5d95b76db266": {
+      "type": "cb-columns-section",
+      "blocks": {
+        "d467d924-13d1-40c3-86e0-88873fb03edf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main-banner.jpg",
+            "image_width": 150
+          }
+        },
+        "396aa6b7-e568-4d1c-9b4d-a8ed35cc1d2e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensouls-eventos-santa-marta.jpg",
+            "image_width": 150
+          }
+        },
+        "0371a072-2c88-43d8-8d4b-23c08161215c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-liberacion-de-especies.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "d467d924-13d1-40c3-86e0-88873fb03edf",
+        "396aa6b7-e568-4d1c-9b4d-a8ed35cc1d2e",
+        "0371a072-2c88-43d8-8d4b-23c08161215c"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "right",
+        "title": "Sabemos que AMAS a los animales. Son lo mejor que tiene toda la naturaleza, y son seres que conectan con nuestras almas al sólo poderlos mirar de frente.",
+        "title_size": 24,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Llena tu vida de alegría y siente la emoción de regalar libertad a especies marinas y terrestres que han sido rescatadas de la caza ilegal o que se encuentran en programas de rehabilitación para ser liberados en su hábitat natural. ¡Esto jamás lo olvidarás!",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=_Ll67pdTYtg",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "96fead58-4b7d-410d-a40d-75f7e54a65c3": {
+      "type": "cb-columns-section",
+      "blocks": {
+        "565978b3-670c-4b9d-9402-dacddea1cc3e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Siembra_de_arboles_2.jpg",
+            "image_width": 150
+          }
+        },
+        "a2eca881-fa8a-474b-a8dd-bc38bcb5eda1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Siembra_de_arboles_3.jpg",
+            "image_width": 150
+          }
+        },
+        "ce27e37f-59f9-4748-bcf4-1bec91bd16e0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Siembra_de_arboles_1.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "565978b3-670c-4b9d-9402-dacddea1cc3e",
+        "a2eca881-fa8a-474b-a8dd-bc38bcb5eda1",
+        "ce27e37f-59f9-4748-bcf4-1bec91bd16e0"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "“El mejor momento para sembrar un árbol era hace 20 años. El segundo mejor momento es ahora.”",
+        "title_size": 24,
+        "title_color": "#000000",
+        "subtitle": "Entrégale VIDA a tu planeta mientras logras te conectas con tus raíces en nuestras siembras de árboles.",
+        "subtitle_color": "#000000",
+        "paragraph": "No sólo te sentirás mejor, harás que la tierra se sienta mejor y que tenga más ganas de seguir respirando.!",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=oSUrMnbyeqo",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "c142dd22-59bc-4135-8599-897d5bb0bec1": {
+      "type": "cb-columns-section",
+      "blocks": {
+        "688e0c45-9d0b-4859-af2d-1c038f09757e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-siembra-de-corales_2.jpg",
+            "image_width": 150
+          }
+        },
+        "926f84cc-32e1-44a5-bbc3-5c4823dddeb0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-siembra-de-corales_3.jpg",
+            "image_width": 150
+          }
+        },
+        "e07fb9db-dcb4-4740-b360-1bff807c77c4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-siembra-de-corales_1.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "688e0c45-9d0b-4859-af2d-1c038f09757e",
+        "926f84cc-32e1-44a5-bbc3-5c4823dddeb0",
+        "e07fb9db-dcb4-4740-b360-1bff807c77c4"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "right",
+        "title": "El 25% de las especies marinas habitan en los arrecifes de coral. Sin arrecifes, miles de millones de especies marinas estarían en peligro.",
+        "title_size": 24,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Disfruta de la posibilidad de aprender más sobre la protección de los corales mientras haces parte del proceso de la siembra de nuevos arrecifes de coral junto a un grupo de expertos biólogos que te guiarán en el paso a paso.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "ad5a0d56-7214-46ba-a76e-befdb7938093": {
+      "type": "cb-columns-section",
+      "blocks": {
+        "9a554c22-1d7e-4aac-859c-6ef44e67440c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-turismo-con-proposito_2.jpg",
+            "image_width": 150
+          }
+        },
+        "c60158bc-cbe8-4a6b-bcb2-ba2d19e83519": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas-turismo-con-proposito_1.jpg",
+            "image_width": 150
+          }
+        },
+        "c02d0daa-7f80-4cd0-9947-80a4b53ec40f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/greensolus-nuestras-iniciativas.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "9a554c22-1d7e-4aac-859c-6ef44e67440c",
+        "c60158bc-cbe8-4a6b-bcb2-ba2d19e83519",
+        "c02d0daa-7f80-4cd0-9947-80a4b53ec40f"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 120,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Disfruta de la magia de la naturaleza, mientras nos permites entregarte una de las mejores experiencias de tu vida.",
+        "title_size": 24,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Nos encargamos de todos los detalles desde el transporte, logística, alimentación, y muchas sorpresas que nuestro equipo de almas verdes lideran con la mejor energía y disposición para que le saques el máximo provecho a tus acciones en #Greensouls.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=UehLE2tGqjU",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "857dc8d2-c6ed-4e33-a139-ac687495928e",
+    "1e3726b5-583a-4192-a5ac-161966b4b06a",
+    "466e3d76-0233-4c9f-b42c-d1950c90e730",
+    "48a39579-0ed7-4b2b-9d42-89f289922c69",
+    "6bdab50b-e8d3-4dd2-aafc-5d95b76db266",
+    "96fead58-4b7d-410d-a40d-75f7e54a65c3",
+    "c142dd22-59bc-4135-8599-897d5bb0bec1",
+    "ad5a0d56-7214-46ba-a76e-befdb7938093"
+  ]
+}

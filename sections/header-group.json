@@ -1,0 +1,55 @@
+{
+  "type": "header",
+  "name": "Header Group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "custom_css": [
+        ".announcement-bar-1 {background: #08393f;}"
+      ],
+      "settings": {
+        "color_scheme": "1",
+        "text": "<p><\/p><p><\/p>",
+        "image": "shopify:\/\/shop_images\/GreenSoulsIcon.svg"
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "logo_position": "center",
+        "height": 120,
+        "sticky_header_type": "on-scroll-up",
+        "enable_country_selector": false,
+        "enable_language_selector": true,
+        "menu": "main-menu",
+        "logo": "shopify:\/\/shop_images\/greenSouls-logo.png",
+        "logo_width": 150,
+        "heading_search": "",
+        "show_collection_card": false,
+        "collection_list": [
+
+        ],
+        "show_items": false,
+        "product_list": [
+
+        ],
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_articles": false,
+        "blog": "",
+        "show_image": false,
+        "show_date": false,
+        "show_author": false
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

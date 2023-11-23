@@ -1,0 +1,126 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "5c4e5c41-3fbb-4032-ac08-38b38bc26ee5": {
+      "type": "cb-custom-section",
+      "custom_css": [
+        ".contenido {align-content: space-between;}",
+        ".contenedor-child {display: grid; grid-template-columns: 1fr 2fr;}",
+        ".imagen {height: 500px;}",
+        ".imagen img {object-position: 0 -250px;}",
+        "@media (max-width: 500px) {.contenedor-child {display: grid; grid-template-columns: auto; } .imagen {height: 300px; transform: scale(1); } .imagen img {object-position: inherit; }}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": false,
+        "border-color": "#08393f",
+        "background-color": "#1fa0a2",
+        "show-icon": true,
+        "icono": "shopify:\/\/shop_images\/arrow-white.svg",
+        "titulo": "Merch",
+        "titulo_color": "#ffffff",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "",
+        "parrafo_color": "#000000",
+        "image": "shopify:\/\/shop_images\/shop-banner.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "0204345e-ffad-4c23-ad22-f3f000c19a7b": {
+      "type": "cb-columns-section",
+      "disabled": true,
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "2 Kg menos de basura en el océano en un Rashguard",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Rashguards hechos en materiales      aprovechables recuperados de los océanos.  Libera a los océanos de 2 kg menos de residuos.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/youtu.be\/dDce8zabrCA",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": false,
+        "button_label_1": "Ver",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "91a7fd0c-f61b-4def-b5df-002cb16d345e": {
+      "type": "featured-products",
+      "blocks": {
+        "template--21171567558976__91a7fd0c-f61b-4def-b5df-002cb16d345e-column-1": {
+          "type": "column",
+          "settings": {
+            "product": "camiseta",
+            "active": false,
+            "image": "shopify:\/\/shop_images\/greensouls-limpieza-de-playas-pasa-a-la-accion_1_f7cb3bca-7dec-42e6-959b-55b3aed95bae.jpg"
+          }
+        },
+        "template--21171567558976__91a7fd0c-f61b-4def-b5df-002cb16d345e-column-2": {
+          "type": "column",
+          "settings": {
+            "product": "liberacion-de-especies",
+            "active": false
+          }
+        },
+        "template--21171567558976__91a7fd0c-f61b-4def-b5df-002cb16d345e-column-3": {
+          "type": "column",
+          "settings": {
+            "product": "siembra-de-corales",
+            "active": false
+          }
+        },
+        "b81a12eb-4395-4e6d-b914-e7cf32226554": {
+          "type": "column",
+          "settings": {
+            "product": "siembra-de-arboles",
+            "active": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21171567558976__91a7fd0c-f61b-4def-b5df-002cb16d345e-column-1",
+        "template--21171567558976__91a7fd0c-f61b-4def-b5df-002cb16d345e-column-2",
+        "template--21171567558976__91a7fd0c-f61b-4def-b5df-002cb16d345e-column-3",
+        "b81a12eb-4395-4e6d-b914-e7cf32226554"
+      ],
+      "settings": {
+        "subtitle": "",
+        "heading": "",
+        "color_scheme": "base-background-1",
+        "image_ratio": "square",
+        "image_fit": "cover",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_desc": false,
+        "margin_top": 60,
+        "margin_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5c4e5c41-3fbb-4032-ac08-38b38bc26ee5",
+    "0204345e-ffad-4c23-ad22-f3f000c19a7b",
+    "91a7fd0c-f61b-4def-b5df-002cb16d345e"
+  ]
+}

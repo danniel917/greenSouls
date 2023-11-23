@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "main": {
+      "type": "cb-custom-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 120,
+        "show-border": true,
+        "border-color": "#269fa1",
+        "background-color": "#ffffff",
+        "show-icon": true,
+        "icono": "shopify:\/\/shop_images\/arrow-black.svg",
+        "titulo": "Turismo con propósito",
+        "titulo_color": "#000000",
+        "subtitulo": "Vive la experiencia #GreenSouls como siempre lo soñaste y sé parte de una comunidad comprometida con ser la solución",
+        "subtitulo_color": "#000000",
+        "parrafo": "¡Elige tu destino y fecha favorita, y prepara tus maletas para vivir una experiencia inolvidable!",
+        "parrafo_color": "#000000",
+        "image": "shopify:\/\/shop_images\/greensouls-turismoconproposito-img.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "8ffa8f01-f957-4812-b5d8-83619d38117b": {
+      "type": "cb-events-section",
+      "disabled": true,
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": true,
+        "border-color": "#08393f",
+        "background-color": "#ffffff",
+        "show-icon": true,
+        "titulo": "Turismo con propósito",
+        "subtitulo": "Vive la experiencia #GreenSouls como siempre lo soñaste y sé parte de una comunidad comprometida con ser la solución",
+        "parrafo": "¡Elige tu destino y fecha favorita, y prepara tus maletas para vivir una experiencia inolvidable!",
+        "block_buttons": false,
+        "button_label_1": "Conoce más",
+        "button_link_1": "",
+        "button_label_2": "Aparta tu cupo",
+        "button_link_2": ""
+      }
+    },
+    "a37dda01-bafb-4312-a229-76bf44cce506": {
+      "type": "cb-overlay-section",
+      "settings": {
+        "padding_top": 190,
+        "padding_bottom": 120,
+        "background_container": "linear-gradient(#000000c5, #000000c5)",
+        "titulo": "Viaja con nosotros en enero 2024",
+        "titulo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/prox-eventos_6.jpg",
+        "block_buttons": false,
+        "button_label_1": "Aparta tu cupo",
+        "button_link_1": "#",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "df1ab1eb-cd53-4049-8826-46b04590b2bc": {
+      "type": "cb-overlay-section",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 120,
+        "background_container": "linear-gradient(#000000c5, #000000c5)",
+        "titulo": "Viaja con nosotros en marzo 2024",
+        "titulo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/prox-eventos_1.jpg",
+        "block_buttons": false,
+        "button_label_1": "Aparta tu cupo",
+        "button_link_1": "#",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "9bd89d37-88af-47eb-a1a6-8041acde3a76": {
+      "type": "cb-overlay-section",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 120,
+        "background_container": "linear-gradient(#000000c5, #000000c5)",
+        "titulo": "Viaja con nosotros en mayo 2024",
+        "titulo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/prox-eventos_7.jpg",
+        "block_buttons": false,
+        "button_label_1": "Aparta tu cupo",
+        "button_link_1": "#",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "db6d1409-d61f-4947-bebb-998ee19ef432": {
+      "type": "cb-overlay-section",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 120,
+        "background_container": "linear-gradient(#000000c5, #000000c5)",
+        "titulo": "Viaja con nosotros en julio 2024",
+        "titulo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/prox-eventos_4.jpg",
+        "block_buttons": false,
+        "button_label_1": "Aparta tu cupo",
+        "button_link_1": "#",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "465769e4-c28c-430b-9648-3e827217fce1": {
+      "type": "cb-overlay-section",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 120,
+        "background_container": "linear-gradient(#000000c5, #000000c5)",
+        "titulo": "Viaja con nosotros en septiembre 2024",
+        "titulo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/prox-eventos_3.jpg",
+        "block_buttons": false,
+        "button_label_1": "Aparta tu cupo",
+        "button_link_1": "#",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "5b0f4690-63fc-4fad-b5d3-dc36f7e87e70": {
+      "type": "cb-overlay-section",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 120,
+        "background_container": "linear-gradient(#000000c5, #000000c5)",
+        "titulo": "Viaja con nosotros en noviembre 2024",
+        "titulo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/prox-eventos_5.jpg",
+        "block_buttons": false,
+        "button_label_1": "Aparta tu cupo",
+        "button_link_1": "#",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8ffa8f01-f957-4812-b5d8-83619d38117b",
+    "a37dda01-bafb-4312-a229-76bf44cce506",
+    "df1ab1eb-cd53-4049-8826-46b04590b2bc",
+    "9bd89d37-88af-47eb-a1a6-8041acde3a76",
+    "db6d1409-d61f-4947-bebb-998ee19ef432",
+    "465769e4-c28c-430b-9648-3e827217fce1",
+    "5b0f4690-63fc-4fad-b5d3-dc36f7e87e70"
+  ]
+}

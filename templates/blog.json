@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "disabled": true,
+      "settings": {
+        "show_image": true,
+        "show_tags": false,
+        "show_date": false,
+        "show_author": false,
+        "show_excerpt": false
+      }
+    },
+    "f016739a-5a84-4ea6-ac6e-f76f509832dc": {
+      "type": "cb-custom-section",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": false,
+        "border-color": "#08393f",
+        "background-color": "#1fa0a2",
+        "show-icon": true,
+        "icono": "shopify:\/\/shop_images\/arrow-white.svg",
+        "titulo": "Conoce más de tu planeta y las acciones de GreenSouls",
+        "titulo_color": "#ffffff",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "",
+        "parrafo_color": "#000000",
+        "image": "shopify:\/\/shop_images\/blogs-banner.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "f16c46c1-8e1d-42ee-9af2-fe1c330650da": {
+      "type": "featured-blog",
+      "settings": {
+        "post_layout": "row",
+        "heading": "",
+        "blog_title": "",
+        "blog": "news",
+        "post_limit": 3,
+        "show_image": true,
+        "show_tags": false,
+        "show_date": false,
+        "show_author": false,
+        "show_excerpt": false,
+        "show_view_all": true,
+        "border_top": false,
+        "border_bottom": false,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f016739a-5a84-4ea6-ac6e-f76f509832dc",
+    "f16c46c1-8e1d-42ee-9af2-fe1c330650da"
+  ]
+}

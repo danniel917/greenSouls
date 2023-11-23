@@ -1,0 +1,142 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "81f671e4-0b90-4342-8cf3-bef2bf1bc502": {
+      "type": "cb-custom-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": false,
+        "border-color": "#08393f",
+        "background-color": "#1fa0a2",
+        "show-icon": true,
+        "icono": "shopify:\/\/shop_images\/arrow-white.svg",
+        "titulo": "Pasa a la acción",
+        "titulo_color": "#ffffff",
+        "subtitulo": "",
+        "subtitulo_color": "#ffffff",
+        "parrafo": "Te gusta el océano y su inmensidad? O quizás eres más amante de la magia de las montañas y sus árboles? O te enamora la diversidad de los animales? Sea cual sea tu pasión, en #GreenSouls tienes diferentes formas de impactar positivamente en tu planeta y en la sociedad desde tu casa.",
+        "parrafo_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/pasa-a-la-accion-img.jpg",
+        "block_buttons": false,
+        "button_label_1": "",
+        "button_link_1": "",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "e59de5ee-d0f7-4b88-954c-32d84a0d19fb": {
+      "type": "cb-fullwidth-color-section",
+      "settings": {
+        "product": "camiseta",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "images_alignment": "left",
+        "title": "Limpieza de Playas",
+        "title_color": "#ffffff",
+        "subtitle": "2 Kg menos de basura en el océano.",
+        "subtitle_color": "#ffffff",
+        "paragraph": "El océano es la fuente de vida en nuestro planeta. Debemos tomar medidas para reducir los desechos generados por los humanos que asﬁxian nuestros océanos.",
+        "paragraph_color": "#ffffff",
+        "image_1": "shopify:\/\/shop_images\/greensouls-limpieza-de-playas-pasa-a-la-accion_1.jpg",
+        "image_2": "shopify:\/\/shop_images\/greensouls-limpieza-de-playas-pasa-a-la-accion_2.jpg",
+        "button_label": "Conoce más",
+        "icon_image": "shopify:\/\/shop_images\/Limpieza_de_playas.svg",
+        "image_width": 150,
+        "details_1": "<h4>Cada minuto, el equivalente a un camión de basura lleno de plásticos se arroja al mar.<\/h4>",
+        "details_2": "<p>Recibe una insignia con tu nombre que certifica tus aportes a la limpieza de océanos<\/p>",
+        "details_3": "<p>Salva las playas de residuos plásticos por :<\/p>",
+        "text_color": "#FFF"
+      }
+    },
+    "db539192-393c-4f70-9085-cc40c03f20e5": {
+      "type": "cb-fullwidth-color-section",
+      "settings": {
+        "product": "siembra-de-arboles",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "images_alignment": "right",
+        "title": "Siembra de Árboles",
+        "title_color": "#ffffff",
+        "subtitle": "1 árbol sembrado en bosques nativos.",
+        "subtitle_color": "#ffffff",
+        "paragraph": "Dale vida a tu planeta mientras te conectas con tus raíces en nuestros eventos de plantación de árboles. No solo te sentirás mejor, sino que harás que la tierra se sienta mejor y quiera seguir respirando.",
+        "paragraph_color": "#ffffff",
+        "image_1": "shopify:\/\/shop_images\/greensouls-siembra-de-arboles-pasa-a-la-accion_2.jpg",
+        "image_2": "shopify:\/\/shop_images\/greensouls-siembra-de-arboles-pasa-a-la-accion_1.jpg",
+        "button_label": "Conoce más",
+        "icon_image": "shopify:\/\/shop_images\/Siembra_de_arboles.svg",
+        "image_width": 150,
+        "details_1": "<h4>“El mejor momento para sembrar un árbol era hace 20 años. El segundo mejor momento es ahora.”<\/h4>",
+        "details_2": "<p>Recibe una insignia con tu nombre que certiﬁca tus aportes a la siembra de árboles y manglares<\/p>",
+        "details_3": "<p>Reforestemos juntos el planeta<\/p>",
+        "text_color": "#FFF"
+      }
+    },
+    "bc08ebbe-2166-4b97-8e00-d304821c343b": {
+      "type": "cb-fullwidth-color-section",
+      "settings": {
+        "product": "siembra-de-corales",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "images_alignment": "left",
+        "title": "Siembra de Corales",
+        "title_color": "#ffffff",
+        "subtitle": "Aporta para la creaciónde una guardería de corales.",
+        "subtitle_color": "#ffffff",
+        "paragraph": "Disfruta la oportunidad de aprender más sobre la protección de corales mientras eres parte del proceso de plantación de nuevos arrecifes de coral con un grupo de biólogos expertos que te guiarán paso a paso.",
+        "paragraph_color": "#ffffff",
+        "image_1": "shopify:\/\/shop_images\/greensouls-siembra-de-corales-pasa-a-la-accion_2.jpg",
+        "image_2": "shopify:\/\/shop_images\/greensouls-siembra-de-corales-pasa-a-la-accion_1.jpg",
+        "button_label": "Conoce más",
+        "icon_image": "shopify:\/\/shop_images\/Siembra_de_corales.svg",
+        "image_width": 150,
+        "details_1": "<h4>El 25% de las especies marinas habitan en los arrecifes de coral. Sin arrecifes, miles de millones de especies marinas estarían en peligro.<\/h4>",
+        "details_2": "<p>Recibe una insignia con tu nombre que certiﬁca tus aportes a la siembra de corales<\/p>",
+        "details_3": "<p>Crea nuevos vecindarios para las especies marinas<\/p>",
+        "text_color": "#FFF"
+      }
+    },
+    "b13a624c-86f1-4101-aeee-bb4acb79596d": {
+      "type": "cb-fullwidth-color-section",
+      "settings": {
+        "product": "liberacion-de-especies",
+        "padding_top": 60,
+        "padding_bottom": 120,
+        "background_color": "#000000",
+        "images_alignment": "right",
+        "title": "Liberación de Especies",
+        "title_color": "#ffffff",
+        "subtitle": "Aporta para rehabilitar y liberar especies animales.",
+        "subtitle_color": "#ffffff",
+        "paragraph": "Llena tu vida de alegría y siente la emoción de dar libertad a marinos y terrestres especies que han sido rescatadas de la caza ilegal o están en programas de rehabilitación para ser liberadas de nuevo en su hábitat natural.",
+        "paragraph_color": "#ffffff",
+        "image_1": "shopify:\/\/shop_images\/greensouls-liberacion-de-especies-pasa-a-la-accion_1.jpg",
+        "image_2": "shopify:\/\/shop_images\/greensouls-liberacion-de-especies-pasa-a-la-accion_2.jpg",
+        "button_label": "Conoce más",
+        "icon_image": "shopify:\/\/shop_images\/Liberacion_de_especies.svg",
+        "image_width": 150,
+        "details_1": "<h4>Sabemos que AMAS a los animales. Son lo mejor que tiene toda la naturaleza, y son seres que conectan con nuestras almas al sólo poderlos mirar de frente.<\/h4>",
+        "details_2": "<p>Recibe una insignia con tu nombre que certiﬁca tus aportes a la rehabilitación de especies<\/p>",
+        "details_3": "<p>Rehabilita y libera especies marinas y  silvestres<\/p>",
+        "text_color": "#FFF"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "81f671e4-0b90-4342-8cf3-bef2bf1bc502",
+    "e59de5ee-d0f7-4b88-954c-32d84a0d19fb",
+    "db539192-393c-4f70-9085-cc40c03f20e5",
+    "bc08ebbe-2166-4b97-8e00-d304821c343b",
+    "b13a624c-86f1-4101-aeee-bb4acb79596d"
+  ]
+}
