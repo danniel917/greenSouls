@@ -1,0 +1,89 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "4efcf124-bcde-4fac-bc8d-9833973e0582": {
+      "type": "cb-fullwidth-text-section",
+      "custom_css": [
+        ".cb__title-text {width: 100%;}"
+      ],
+      "settings": {
+        "fullwidth_section": false,
+        "padding_top": 250,
+        "padding_bottom": 250,
+        "background_image": "shopify:\/\/shop_images\/Asset_2.jpg",
+        "title": "<p>Próximamente<\/p>",
+        "title_color": "#ffffff",
+        "title_alignment": "center"
+      }
+    },
+    "80cd125f-1b11-484d-a920-d149bc11bff8": {
+      "type": "cb-bg-gradient",
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "heading": "<h4><strong>GreenUp<\/strong> Es más que una maratón es una invitación a un compromiso activo por el bienestar del mundo.<\/h4>",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "center",
+        "button_label": "greensoulsglobal.com",
+        "button_link": "",
+        "button_style": "primary",
+        "logo_image": "shopify:\/\/shop_images\/GreenSoulsIcon.svg",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0.5,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "4e0b4cc8-f1d6-4fd5-bce1-c11db99ae2e6": {
+      "type": "cb-image-banner",
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "En este desafío de 10K, cada kilómetro recorrido no solo te lleva más lejos, sino que también lleva más lejos nuestro propósito de crear un planeta más sano y sostenible. Con cada paso, estamos corriendo para mejorar nuestra salud, nuestra ciudad y nuestro mundo.",
+        "text_align": "center",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "logo_image": "shopify:\/\/shop_images\/Asset_4_872f6057-09ea-4b58-a241-db2d6a74ee65.svg",
+        "image": "shopify:\/\/shop_images\/greenup_2.jpg",
+        "image_ratio": "adapt",
+        "opacity_overlay": 0,
+        "margin_top": 0,
+        "margin_bottom": 0
+      }
+    },
+    "b5dbd0ba-962b-481e-8f3f-48b6cbc6f723": {
+      "type": "cb-contact-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "media_alignment": "left",
+        "title": "Contáctanos",
+        "title_size": 32,
+        "title_color": "#ffffff",
+        "subtitle": "",
+        "subtitle_color": "#ffffff",
+        "paragraph_1": "<p>Es posible tener un futuro mejor. <br\/>Contáctanos para saber más  sobre nuestra misión y trabajo  o para participar.<\/p>",
+        "paragraph_2": "",
+        "paragraph_3": "",
+        "paragraph": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4efcf124-bcde-4fac-bc8d-9833973e0582",
+    "80cd125f-1b11-484d-a920-d149bc11bff8",
+    "4e0b4cc8-f1d6-4fd5-bce1-c11db99ae2e6",
+    "b5dbd0ba-962b-481e-8f3f-48b6cbc6f723"
+  ]
+}

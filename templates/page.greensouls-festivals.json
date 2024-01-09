@@ -1,0 +1,281 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "8599ea30-be74-4551-9567-e96bc7793713": {
+      "type": "cb-background-section",
+      "custom_css": [
+        "@media (max-width: 600px) {.cb__image img {width: 250px; }}"
+      ],
+      "settings": {
+        "section_height": 600,
+        "margin_top": 60,
+        "margin_bottom": 0,
+        "background_type": "image",
+        "background_color": "#0a8699",
+        "background_image": "shopify:\/\/shop_images\/greenSoulsFestivals_17.jpg",
+        "image": "shopify:\/\/shop_images\/greenSoulsFestivals_4.svg",
+        "image_width": 500
+      }
+    },
+    "519d1037-8bc3-4659-9613-e83f157e5251": {
+      "type": "cb-custom-section",
+      "custom_css": [
+        ".cb__title-text {color: #000; font-size: 32px;}"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": true,
+        "border-color": "#08393f",
+        "background-color": "#ffffff",
+        "show-icon": false,
+        "titulo": "¡Vive San Andrés al mejor estilo GreenSouls y disfruta mientras proteges este paraíso!",
+        "titulo_color": "#000000",
+        "subtitulo": "",
+        "subtitulo_color": "#000000",
+        "parrafo": "San Andrés es sin duda uno de los principales paraísos naturales que tenemos en el mundo, y tenemos la fortuna de que sea en Colombia.",
+        "parrafo_color": "#000000",
+        "image": "shopify:\/\/shop_images\/greenSoulsFestivals_16.jpg",
+        "block_buttons": false,
+        "button_label_1": "Conoce más",
+        "button_link_1": "shopify:\/\/pages\/san-andres",
+        "button_label_2": "",
+        "button_link_2": ""
+      }
+    },
+    "4b1dab8e-84e6-492e-b693-faa3eed4cfc0": {
+      "type": "cb-contact-image-section",
+      "disabled": true,
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "text": "<h2>Contáctanos<br\/><br\/><\/h2><p>Es posible tener un futuro mejor. <br\/>Contáctanos para saber más <br\/>sobre nuestra misión y trabajo <br\/>o para participar.<\/p>",
+        "text_color": "#ffffff",
+        "image": "shopify:\/\/shop_images\/Greensouls-Logo-White.png",
+        "image_width": 200,
+        "right_image": "shopify:\/\/shop_images\/plogging.png",
+        "right_image_width": 200
+      }
+    },
+    "26f82013-ee6c-4295-a3db-8da8439d4544": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "height": "16\/9",
+        "video_fit": "contain",
+        "subheading": "",
+        "heading": "",
+        "opacity_overlay": 0,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=dDce8zabrCA",
+        "video_autoplay": true,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "description": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "09360e09-46be-42ac-890d-0eeeb5e93955": {
+      "type": "cb-background-section",
+      "settings": {
+        "section_height": 400,
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "background_type": "image",
+        "background_color": "#0a8699",
+        "background_image": "shopify:\/\/shop_images\/greenSoulsFestivals_12.jpg",
+        "image": "shopify:\/\/shop_images\/greenSoulsFestivals_3.svg",
+        "image_width": 200
+      }
+    },
+    "6bb3059e-4432-418f-971e-457f17fb1cb8": {
+      "type": "cb-cityplogging-section",
+      "settings": {
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "text": "<h3>¡Celebrando  el día de la tierra como nunca antes!<\/h3><p><\/p><p><br\/>En Abril de cada año GreenSouls se prepara para celebrar el día de la tierra al mejor estilo, siembra, libera y explora, siempre nos acompañan personas que harán de tu experiencia algo único.<\/p>",
+        "show_additional_image": "yes",
+        "top_left_image": "shopify:\/\/shop_images\/greenSoulsFestivals_14.jpg",
+        "bottom_left_image": "shopify:\/\/shop_images\/greenSoulsFestivals_13.jpg",
+        "top_right_image": "shopify:\/\/shop_images\/greenSoulsFestivals_11.jpg",
+        "bottom_right_image": "shopify:\/\/shop_images\/greenSoulsFestivals_15.jpg"
+      }
+    },
+    "c1c436e1-7d0d-414e-93a7-6e8bbc7c4f50": {
+      "type": "brand-image",
+      "blocks": {
+        "template--21639494467904__c1c436e1-7d0d-414e-93a7-6e8bbc7c4f50-column-8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alcaldia.png",
+            "image_width": 200,
+            "brand_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21639494467904__c1c436e1-7d0d-414e-93a7-6e8bbc7c4f50-column-8"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".section-template--21639494467904__c1c436e1-7d0d-414e-93a7-6e8bbc7c4f50-padding {justify-content: center;}"
+      ],
+      "settings": {
+        "border_top": false,
+        "border_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 60,
+        "margin_bottom": 0
+      }
+    },
+    "2f1a143c-6d82-47bd-9609-fad308821dd3": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "height": "16\/9",
+        "video_fit": "contain",
+        "subheading": "",
+        "heading": "",
+        "opacity_overlay": 0,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=UehLE2tGqjU",
+        "video_autoplay": true,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "description": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ba964efb-219f-480e-967d-80e685784c89": {
+      "type": "cb-background-section",
+      "settings": {
+        "section_height": 400,
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "background_type": "image",
+        "background_color": "#0a8699",
+        "background_image": "shopify:\/\/shop_images\/greenSoulsFestivals_7.jpg",
+        "image": "shopify:\/\/shop_images\/greenSoulsFestivals_2.svg",
+        "image_width": 200
+      }
+    },
+    "145a6bb8-0a90-4d44-a9a1-1de040b67fde": {
+      "type": "cb-cityplogging-section",
+      "settings": {
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "text": "<h3>Siembra Vida, Siembra Conciencia <\/h3><p><br\/>Transformamos vidas y conciencias. Desde donar computadoras y liberar especies hasta otorgar becas universitarias, recoger desechos en playas y sembrar corales y árboles nativos, cada acción concreta que emprendemos crea un tejido de positividad. Agradecemos a todos por ser parte de este impacto global y recordar que incluso los gestos más pequeños generan cambios    significativos. <\/p>",
+        "show_additional_image": "yes",
+        "top_left_image": "shopify:\/\/shop_images\/greenSoulsFestivals_9.jpg",
+        "bottom_left_image": "shopify:\/\/shop_images\/greenSoulsFestivals_8.jpg",
+        "top_right_image": "shopify:\/\/shop_images\/greenSoulsFestivals_6.jpg",
+        "bottom_right_image": "shopify:\/\/shop_images\/greenSoulsFestivals_10.jpg"
+      }
+    },
+    "dca23d50-8ff0-42fe-a089-1485ae6761c6": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "height": "16\/9",
+        "video_fit": "contain",
+        "subheading": "",
+        "heading": "",
+        "opacity_overlay": 0,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_Ll67pdTYtg",
+        "video_autoplay": true,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "description": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b62a2d49-6e0c-453e-bb5a-c7973bafced3": {
+      "type": "cb-background-section",
+      "settings": {
+        "section_height": 400,
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "background_type": "image",
+        "background_color": "#0a8699",
+        "background_image": "shopify:\/\/shop_images\/greenSoulsFestivals_2.jpg",
+        "image": "shopify:\/\/shop_images\/greenSoulsFestivals_1.svg",
+        "image_width": 200
+      }
+    },
+    "9dd39d6d-92c8-46e9-a504-e5222b670cc1": {
+      "type": "cb-cityplogging-section",
+      "settings": {
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "text": "<h3>Gigantes Azules - Nuquí<\/h3><p><\/p><p><br\/>Unimos fuerzas con marcas comprometidas como O'Neill, ISDIN, TASK, HD Ópticas, Colombia Inspira y Grupo San German para crear un           impacto ambiental y social positivo. Desde el avistamiento de ballenas hasta la limpieza de playas, cada momento fue una oportunidad para aprender y crecer, demostrando que el              marketing con propósito es una poderosa fuerza para el cambio.<\/p>",
+        "show_additional_image": "yes",
+        "top_left_image": "shopify:\/\/shop_images\/greenSoulsFestivals_4.jpg",
+        "bottom_left_image": "shopify:\/\/shop_images\/greenSoulsFestivals_3.jpg",
+        "top_right_image": "shopify:\/\/shop_images\/greenSoulsFestivals_1.jpg",
+        "bottom_right_image": "shopify:\/\/shop_images\/greenSoulsFestivals_5.jpg"
+      }
+    },
+    "a39cd342-695d-4f6f-90bf-a226770f6072": {
+      "type": "cb-column-image-section",
+      "disabled": true,
+      "settings": {
+        "margin_top": 120,
+        "margin_bottom": 120,
+        "title": "<h2>Próximamente<\/h2>",
+        "top_left_image": "shopify:\/\/shop_images\/city_plogging_prox_1.jpg",
+        "top_right_image": "shopify:\/\/shop_images\/city_plogging_prox_2.jpg",
+        "button_label_1": "Conoce y aparta tu cupo",
+        "button_link_1": "",
+        "button_label_2": "Conoce y aparta tu cupo",
+        "button_link_2": ""
+      }
+    },
+    "b5dbd0ba-962b-481e-8f3f-48b6cbc6f723": {
+      "type": "cb-contact-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#000000",
+        "media_alignment": "left",
+        "title": "Contáctanos",
+        "title_size": 32,
+        "title_color": "#ffffff",
+        "subtitle": "",
+        "subtitle_color": "#ffffff",
+        "paragraph_1": "<p>Es posible tener un futuro mejor. <br\/>Contáctanos para saber más  sobre nuestra misión y trabajo  o para participar.<\/p>",
+        "paragraph_2": "",
+        "paragraph_3": "",
+        "paragraph": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8599ea30-be74-4551-9567-e96bc7793713",
+    "519d1037-8bc3-4659-9613-e83f157e5251",
+    "4b1dab8e-84e6-492e-b693-faa3eed4cfc0",
+    "26f82013-ee6c-4295-a3db-8da8439d4544",
+    "09360e09-46be-42ac-890d-0eeeb5e93955",
+    "6bb3059e-4432-418f-971e-457f17fb1cb8",
+    "c1c436e1-7d0d-414e-93a7-6e8bbc7c4f50",
+    "2f1a143c-6d82-47bd-9609-fad308821dd3",
+    "ba964efb-219f-480e-967d-80e685784c89",
+    "145a6bb8-0a90-4d44-a9a1-1de040b67fde",
+    "dca23d50-8ff0-42fe-a089-1485ae6761c6",
+    "b62a2d49-6e0c-453e-bb5a-c7973bafced3",
+    "9dd39d6d-92c8-46e9-a504-e5222b670cc1",
+    "a39cd342-695d-4f6f-90bf-a226770f6072",
+    "b5dbd0ba-962b-481e-8f3f-48b6cbc6f723"
+  ]
+}

@@ -20,30 +20,261 @@
         "titulo_color": "#ffffff",
         "subtitulo": "",
         "subtitulo_color": "#ffffff",
-        "parrafo": "Sé parte del cambio, permitele a tu marca crecer de forma sostenible, contáctanos y conoce todo lo que GreenSouls te puede ofrecer.",
+        "parrafo": "Suma tu marca a un evento privado con impacto social y ambiental",
         "parrafo_color": "#ffffff",
         "image": "shopify:\/\/shop_images\/green-souls-Sube-abordo-tu_marca-banner.jpg",
         "block_buttons": false,
-        "button_label_1": "",
+        "button_label_1": "¡Quiero Sumarme!",
         "button_link_1": "",
         "button_label_2": "",
         "button_link_2": ""
       }
     },
-    "04206e08-55f6-4637-8acd-5feda3ad4511": {
-      "type": "cb-fullwidth-text-section",
+    "0e8f6223-b772-48cc-a7ef-fe2f7eeada31": {
+      "type": "cb-partners-section",
+      "blocks": {
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/corona_927d17dd-ee2a-405f-9f87-6a5c8ce6a105.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/localiza_87709c8c-d3a1-4805-9591-6fb4b86281ae.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/isdin_3df03a3c-25c4-498c-bc60-d48084dd1a65.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/el-tesoro.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/task_f6a21ceb-b53d-4691-a8d3-76dfa60dfa39.jpg",
+            "image_width": 150
+          }
+        },
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dislicores.jpg",
+            "image_width": 150
+          }
+        },
+        "b3b48efe-1e9a-4218-8af9-4652fd75d73b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/arnette.jpg",
+            "image_width": 150
+          }
+        },
+        "f771c22e-530c-4622-8beb-2ac483bae499": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maaji.jpg",
+            "image_width": 150
+          }
+        },
+        "f7aa3996-d0d1-4140-b7bf-3a8d3d449cad": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/uniples.jpg",
+            "image_width": 150
+          }
+        },
+        "043fcfc5-711d-4b48-bae0-32003668235e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tajin.jpg",
+            "image_width": 150
+          }
+        },
+        "0b05cb1b-b53d-4ea5-b11f-a3766aafbefd": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bioderma.jpg",
+            "image_width": 150
+          }
+        },
+        "bc4ad9d1-c7e9-44f1-a347-14bf9d76a58c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/loccitane.jpg",
+            "image_width": 150
+          }
+        },
+        "5d4df053-7ac4-43eb-9532-37efc8889e3b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chamela.jpg",
+            "image_width": 150
+          }
+        },
+        "56a99a1c-7868-48e9-a5c2-bb84a8e82d01": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/american-eagle.jpg",
+            "image_width": 150
+          }
+        },
+        "8315f826-8d1b-4f85-993b-580f7d726f3a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/parmessano.jpg",
+            "image_width": 150
+          }
+        },
+        "38562de3-02af-45c6-9e1f-e0cda4e40567": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hd-opticas.jpg",
+            "image_width": 150
+          }
+        },
+        "d6bad329-61c0-48a7-b8c1-849330f242f6": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ABC.jpg",
+            "image_width": 150
+          }
+        },
+        "900aa810-e372-4985-a03b-2f116bba542b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ceipa.jpg",
+            "image_width": 150
+          }
+        },
+        "3b7a3b4e-d311-483d-b415-13cff2127c01": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nosotras.jpg",
+            "image_width": 150
+          }
+        },
+        "e955d20c-f915-4e03-9668-e77309c9406e": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jet.jpg",
+            "image_width": 150
+          }
+        },
+        "063f102e-6068-4953-b3f9-65987bbd269c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wwf.jpg",
+            "image_width": 150
+          }
+        },
+        "65446927-6972-44f0-8c11-7b16307ab5a1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/oneill.jpg",
+            "image_width": 150
+          }
+        },
+        "d41dfe59-5b30-4c5f-baf9-bdd3a2dc0767": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avianca_32087feb-5ea0-4ffb-9c73-a15046b6a0be.jpg",
+            "image_width": 150
+          }
+        },
+        "95a8e29f-02c8-4ab8-8749-16f25cd775c5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kalley.jpg",
+            "image_width": 150
+          }
+        },
+        "1e712452-e429-4659-bfa4-7c9fac09925c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hilton.jpg",
+            "image_width": 150
+          }
+        }
+      },
+      "block_order": [
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-1",
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-2",
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-3",
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-4",
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-5",
+        "template--21171534037312__0e8f6223-b772-48cc-a7ef-fe2f7eeada31-logo-6",
+        "b3b48efe-1e9a-4218-8af9-4652fd75d73b",
+        "f771c22e-530c-4622-8beb-2ac483bae499",
+        "f7aa3996-d0d1-4140-b7bf-3a8d3d449cad",
+        "043fcfc5-711d-4b48-bae0-32003668235e",
+        "0b05cb1b-b53d-4ea5-b11f-a3766aafbefd",
+        "bc4ad9d1-c7e9-44f1-a347-14bf9d76a58c",
+        "5d4df053-7ac4-43eb-9532-37efc8889e3b",
+        "56a99a1c-7868-48e9-a5c2-bb84a8e82d01",
+        "8315f826-8d1b-4f85-993b-580f7d726f3a",
+        "38562de3-02af-45c6-9e1f-e0cda4e40567",
+        "d6bad329-61c0-48a7-b8c1-849330f242f6",
+        "900aa810-e372-4985-a03b-2f116bba542b",
+        "3b7a3b4e-d311-483d-b415-13cff2127c01",
+        "e955d20c-f915-4e03-9668-e77309c9406e",
+        "063f102e-6068-4953-b3f9-65987bbd269c",
+        "65446927-6972-44f0-8c11-7b16307ab5a1",
+        "d41dfe59-5b30-4c5f-baf9-bdd3a2dc0767",
+        "95a8e29f-02c8-4ab8-8749-16f25cd775c5",
+        "1e712452-e429-4659-bfa4-7c9fac09925c"
+      ],
       "settings": {
-        "fullwidth_section": false,
-        "padding_top": 150,
-        "padding_bottom": 150,
-        "background_image": "shopify:\/\/shop_images\/sube-abordo-tu-marca-aliados.jpg",
-        "title": "<p>Nuestras campañas y aliados<\/p>",
-        "title_color": "#ffffff",
-        "title_alignment": "right"
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show-border": true,
+        "border-color": "#08393f",
+        "titulo": "Nuestros aliados:",
+        "subtitulo": "Ellos ya hacen parte del cambio"
+      }
+    },
+    "776ab40a-e947-4313-ada5-57e905611b46": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21171534037312__776ab40a-e947-4313-ada5-57e905611b46-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3><strong>Estos son solo algunos de nuestros eventos privados<\/strong><\/h3>",
+            "heading_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "template--21171534037312__776ab40a-e947-4313-ada5-57e905611b46-heading-1"
+      ],
+      "custom_css": [
+        ".rich-text {max-width: 1840px; padding: 0; text-align: left;}",
+        ".rich-text__blocks {max-width: 100%;}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 60,
+        "margin_bottom": 60
       }
     },
     "b3bb5d01-f2ea-41bc-8919-d60c51f369f1": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -61,10 +292,10 @@
         "video_loop": false,
         "video_muted": true,
         "video_controls": true,
-        "block_buttons": false,
-        "button_label_1": "",
+        "block_buttons": true,
+        "button_label_1": "Ve nuestro último episodio",
         "button_link_1": "",
-        "button_label_2": "",
+        "button_label_2": "¡Quiero Sumarme!",
         "button_link_2": ""
       }
     },
@@ -78,20 +309,75 @@
         "title": "Blue Wave - ISDIN X GreenSouls",
         "title_size": 32,
         "title_color": "#000000",
-        "subtitle": "¡Increíble es la palabra para describir esta experiencia!",
+        "subtitle": "¡Increíble es la palabra para descubrir esta experiencia!",
         "subtitle_color": "#000000",
-        "paragraph": "En una nueva ocasión junto a ISDIN        tuvimos la oportunidad de limpiar playas, liberar especies silvestres  y sembrar        árboles nativos, mientras nos cuidamos del sol, utilizando nuestro fotoprotector favorito.",
+        "paragraph": "Nuestra alianza ha demostrado el impacto que podemos tener cuando unimos fuerzas. ¡Nuestros resultados después de 6 eventos juntos hablan por si mismos!",
         "paragraph_color": "#000000",
         "video": "https:\/\/youtu.be\/lBH1UMxTaxE",
         "video_autoplay": false,
         "video_loop": false,
         "video_muted": true,
         "video_controls": true,
-        "block_buttons": false,
-        "button_label_1": "",
+        "block_buttons": true,
+        "button_label_1": "Ve nuestro último episodio",
         "button_link_1": "",
-        "button_label_2": "",
+        "button_label_2": "¡Quiero Sumarme!",
         "button_link_2": ""
+      }
+    },
+    "44da1136-f2af-472d-85d0-f3149993d32e": {
+      "type": "cb-tumarca-items",
+      "blocks": {
+        "4a299da9-151e-4c27-a6c2-441dd2546670": {
+          "type": "column",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/tu-marca-greensouls_2.jpg",
+            "text": "<p><strong>Limpiezas <br\/>de Playas<\/strong><\/p>",
+            "number": "<h4><strong>+5.470<\/strong><\/h4><p>De Residuos<\/p>",
+            "caption": "<p>41% Aprovechables extraídos de las playas.<\/p>",
+            "image": "shopify:\/\/shop_images\/Asset_8.svg"
+          }
+        },
+        "c081e686-93e3-4533-9882-6e5fa6af2cc7": {
+          "type": "column",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/tu-marca-greensouls_1.jpg",
+            "text": "<p><strong>Liberación <br\/>de Especies<\/strong><\/p>",
+            "number": "<h4><strong>+167<\/strong><\/h4><p>De Especies<\/p>",
+            "caption": "<p>Marinas y silvestres liberadas<\/p>",
+            "image": "shopify:\/\/shop_images\/Asset_9.svg"
+          }
+        },
+        "a04c508a-c1c4-4562-af05-80711888b04f": {
+          "type": "column",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/tu-marca-greensouls_6.jpg",
+            "text": "<p><strong>Siembra de<br\/>Árboles<\/strong><\/p>",
+            "number": "<h4><strong>+80<\/strong><\/h4><p>Árboles<\/p>",
+            "caption": "<p>Sembrados pertenecientes a dos especies nativas de la región<\/p>",
+            "image": "shopify:\/\/shop_images\/Asset_10.svg"
+          }
+        },
+        "8b202449-c9ce-44b1-94cc-f2bd6d1df72e": {
+          "type": "column",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/tu-marca-greensouls_5.jpg",
+            "text": "<p><strong>Comunidades<br\/>Indígenas<\/strong><\/p>",
+            "number": "<p><strong>Conexión con<br\/>comunidades<br\/>indígenas<\/strong><\/p>",
+            "caption": "<p>Tribu Kogui Sierra Nevada<\/p>",
+            "image": "shopify:\/\/shop_images\/hand.svg"
+          }
+        }
+      },
+      "block_order": [
+        "4a299da9-151e-4c27-a6c2-441dd2546670",
+        "c081e686-93e3-4533-9882-6e5fa6af2cc7",
+        "a04c508a-c1c4-4562-af05-80711888b04f",
+        "8b202449-c9ce-44b1-94cc-f2bd6d1df72e"
+      ],
+      "settings": {
+        "margin_top": 60,
+        "margin_bottom": 60
       }
     },
     "84f60cf7-2565-4ed8-987c-6c4e6a8e9d37": {
@@ -106,22 +392,75 @@
         "title_color": "#000000",
         "subtitle": "",
         "subtitle_color": "#000000",
-        "paragraph": "Es aquí donde te compartimos el resultados de un excelente trabajo en equipo para donar 9903 jeans recolectados alrededor de todo el país, con un cumplimiento del 124%, superando la meta de 8000 jeans             esperada para el 2022.",
+        "paragraph": "Es aquí donde te compartimos el resultados de un excelente trabajo en equipo para donar 9.903 jeans recolectados alrededor de todo el país, con un cumplimiento del 124%, superando la meta de 8000 jeans esperada para el 2022.",
         "paragraph_color": "#000000",
         "video": "https:\/\/youtu.be\/lrcdR8IVBIE",
         "video_autoplay": false,
         "video_loop": false,
         "video_muted": true,
         "video_controls": true,
-        "block_buttons": false,
-        "button_label_1": "",
+        "block_buttons": true,
+        "button_label_1": "¡Ve este capítulo!",
         "button_link_1": "",
-        "button_label_2": "",
+        "button_label_2": "¡Quiero Sumarme!",
+        "button_link_2": ""
+      }
+    },
+    "dedbb674-fa75-481b-a727-9db18d3532a1": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "On Vacation X GreenSouls",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Visitamos el Amazonas junto a On Vacation: Una experiencia única en el corazón del Amazonas colombiano celebrando los 10  años de la empresa, para sembrar 500 plántulas de Copoazú, Arazá, Açaí y Guama, y además limpiar las cuencas del Río Amazonas, donde pudimos dejar una huella ecológica y social signiﬁcativa entregando 50 kits escolares a las comunidades locales de indígenas.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=OZvlgBJ_GkY&amp;ab_channel=GreenSouls",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": true,
+        "button_label_1": "¡Ve este capítulo!",
+        "button_link_1": "",
+        "button_label_2": "¡Quiero Sumarme!",
+        "button_link_2": ""
+      }
+    },
+    "6e74c5d7-60e7-4873-8213-c9aad79dc2e9": {
+      "type": "cb-columns-section",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "background_color": "#ffffff",
+        "media_alignment": "left",
+        "title": "Dislicores X GreenSouls",
+        "title_size": 32,
+        "title_color": "#000000",
+        "subtitle": "",
+        "subtitle_color": "#000000",
+        "paragraph": "Dislicores sin duda ha sido un ejemplo de que los residuos de tus productos pueden dar vida y        devolver color a lo que estaba perdido, con su iniciativa de fragmentación de vidrio para crear galletas de coral que nos darán una segunda oportunidad para llenar nuestro Arrecife de Vida, nos hemos comprometido a que esta labor cambie el estado actual de nuestros arrecifes en Colombia.",
+        "paragraph_color": "#000000",
+        "video": "https:\/\/www.youtube.com\/watch?v=5lGrXTtbrI0&ab_channel=GreenSouls",
+        "video_autoplay": false,
+        "video_loop": false,
+        "video_muted": true,
+        "video_controls": true,
+        "block_buttons": true,
+        "button_label_1": "¡Ve este capítulo!",
+        "button_link_1": "",
+        "button_label_2": "¡Quiero Sumarme!",
         "button_link_2": ""
       }
     },
     "5460f694-9a26-4f12-9e32-573a133b0ee6": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -148,6 +487,7 @@
     },
     "2e4e6a19-6a41-4d3e-b1dc-7f3a89c46864": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -174,6 +514,7 @@
     },
     "c37b2f3f-6255-486d-b350-a2c509c57c81": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -200,6 +541,7 @@
     },
     "c405ecb2-72fb-41d4-8937-646673f56c9f": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -226,6 +568,7 @@
     },
     "198c7d48-4e02-4431-94bc-121ec12c41e0": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -252,6 +595,7 @@
     },
     "66682a72-9b09-4584-a911-474345a2ee43": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -278,6 +622,7 @@
     },
     "68fc2476-e8f2-4cf2-9524-c35b79234d43": {
       "type": "cb-columns-section",
+      "disabled": true,
       "settings": {
         "padding_top": 60,
         "padding_bottom": 60,
@@ -302,189 +647,6 @@
         "button_link_2": ""
       }
     },
-    "0fc2d4b4-9f3c-4fad-a886-969085c0920a": {
-      "type": "cb-aliados-section",
-      "blocks": {
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-09.jpg",
-            "image_width": 150
-          }
-        },
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/localiza.jpg",
-            "image_width": 150
-          }
-        },
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-3": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-17.jpg",
-            "image_width": 150
-          }
-        },
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-4": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-14.jpg",
-            "image_width": 150
-          }
-        },
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-5": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/task.jpg",
-            "image_width": 150
-          }
-        },
-        "1678bdf1-f2b3-4621-bfe0-bd5549cf4954": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-20.jpg",
-            "image_width": 150
-          }
-        },
-        "7f70f448-4d23-41bb-83ea-ed824a10ee59": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/avianca.jpg",
-            "image_width": 150
-          }
-        },
-        "739ee37c-eef0-4d12-a6b6-368bf4a8d7cf": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-04.jpg",
-            "image_width": 150
-          }
-        },
-        "195f3982-1d17-43e2-8a6d-fa55e79ebacf": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/onvacation.jpg",
-            "image_width": 150
-          }
-        },
-        "830b8501-f3bb-4bbb-8e3b-59e90d12cca2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-05.jpg",
-            "image_width": 150
-          }
-        },
-        "0846bb67-c82e-4bb6-9038-58ebcda0d949": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-02.jpg",
-            "image_width": 150
-          }
-        },
-        "9a52b3dd-5ed0-404c-a3aa-6ae3c1d62165": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-16.jpg",
-            "image_width": 150
-          }
-        },
-        "16441d41-7264-41c2-bf3b-2c4b2b075865": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-12.jpg",
-            "image_width": 150
-          }
-        },
-        "0ffb5e58-fed2-40c1-ba38-e9f97ed3bb4a": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-10.jpg",
-            "image_width": 150
-          }
-        },
-        "fddc4c74-3ac3-4c59-8454-066434da2f5d": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-01.jpg",
-            "image_width": 150
-          }
-        },
-        "8575a2e8-5275-4659-8455-3050589206c7": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-15.jpg",
-            "image_width": 150
-          }
-        },
-        "c9e5cbcc-be93-4c97-8ec0-beacd679c39a": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-18.jpg",
-            "image_width": 150
-          }
-        },
-        "2945cab4-e573-4b5e-8d78-a208521e5eb8": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-11.jpg",
-            "image_width": 150
-          }
-        },
-        "c8f8296d-d490-4b9b-9fe2-3e5b51ab6c55": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-13.jpg",
-            "image_width": 150
-          }
-        },
-        "05e56f55-0ec6-496e-a38a-48cdb0be13db": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-07.jpg",
-            "image_width": 150
-          }
-        },
-        "0354446d-37d9-4bd6-bc9d-7ff8a39e56cf": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Marcas-08.jpg",
-            "image_width": 150
-          }
-        }
-      },
-      "block_order": [
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-1",
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-2",
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-3",
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-4",
-        "template--21171534037312__0fc2d4b4-9f3c-4fad-a886-969085c0920a-logo-5",
-        "1678bdf1-f2b3-4621-bfe0-bd5549cf4954",
-        "7f70f448-4d23-41bb-83ea-ed824a10ee59",
-        "739ee37c-eef0-4d12-a6b6-368bf4a8d7cf",
-        "195f3982-1d17-43e2-8a6d-fa55e79ebacf",
-        "830b8501-f3bb-4bbb-8e3b-59e90d12cca2",
-        "0846bb67-c82e-4bb6-9038-58ebcda0d949",
-        "9a52b3dd-5ed0-404c-a3aa-6ae3c1d62165",
-        "16441d41-7264-41c2-bf3b-2c4b2b075865",
-        "0ffb5e58-fed2-40c1-ba38-e9f97ed3bb4a",
-        "fddc4c74-3ac3-4c59-8454-066434da2f5d",
-        "8575a2e8-5275-4659-8455-3050589206c7",
-        "c9e5cbcc-be93-4c97-8ec0-beacd679c39a",
-        "2945cab4-e573-4b5e-8d78-a208521e5eb8",
-        "c8f8296d-d490-4b9b-9fe2-3e5b51ab6c55",
-        "05e56f55-0ec6-496e-a38a-48cdb0be13db",
-        "0354446d-37d9-4bd6-bc9d-7ff8a39e56cf"
-      ],
-      "settings": {
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "show-border": true,
-        "border-color": "#08393f",
-        "titulo": "Nuestros aliados:",
-        "subtitulo": "Ellos ya hacen parte del cambio"
-      }
-    },
     "53f98462-90dc-4e01-b04c-1d0fe70f0d0c": {
       "type": "cb-contact-section",
       "settings": {
@@ -497,9 +659,9 @@
         "title_color": "#ffffff",
         "subtitle": "",
         "subtitle_color": "#000000",
-        "paragraph_1": "<p>Es posible tener un futuro mejor.<br\/>Contáctanos para saber más<br\/>sobre nuestra misión y trabajo<br\/>o para participar.<\/p>",
-        "paragraph_2": "<p><a href=\"mailto:l.tovar@greensoulsglobal.com\" target=\"_blank\" title=\"mailto:l.tovar@greensoulsglobal.com\">l.tovar@greensoulsglobal.com<\/a><br\/><a href=\"mailto:camilo@greensoulsglobal.com\" target=\"_blank\" title=\"mailto:camilo@greensoulsglobal.com\">camilo@greensoulsglobal.com<\/a><\/p>",
-        "paragraph_3": "<p>COL: +57 (304)285-0408<br\/>USA: +1 (909) 765-6553<\/p>",
+        "paragraph_1": "<p>Es posible tener un futuro mejor.<br\/>Contáctanos para saber más sobre nuestra misión y trabajo o para participar.<\/p>",
+        "paragraph_2": "",
+        "paragraph_3": "",
         "paragraph": "#ffffff"
       }
     }
@@ -507,10 +669,14 @@
   "order": [
     "main",
     "799be7ac-e704-46d4-8a8d-b0405828e293",
-    "04206e08-55f6-4637-8acd-5feda3ad4511",
+    "0e8f6223-b772-48cc-a7ef-fe2f7eeada31",
+    "776ab40a-e947-4313-ada5-57e905611b46",
     "b3bb5d01-f2ea-41bc-8919-d60c51f369f1",
     "cffb14e2-7b20-439c-b1d6-4d108ea358f6",
+    "44da1136-f2af-472d-85d0-f3149993d32e",
     "84f60cf7-2565-4ed8-987c-6c4e6a8e9d37",
+    "dedbb674-fa75-481b-a727-9db18d3532a1",
+    "6e74c5d7-60e7-4873-8213-c9aad79dc2e9",
     "5460f694-9a26-4f12-9e32-573a133b0ee6",
     "2e4e6a19-6a41-4d3e-b1dc-7f3a89c46864",
     "c37b2f3f-6255-486d-b350-a2c509c57c81",
@@ -518,7 +684,6 @@
     "198c7d48-4e02-4431-94bc-121ec12c41e0",
     "66682a72-9b09-4584-a911-474345a2ee43",
     "68fc2476-e8f2-4cf2-9524-c35b79234d43",
-    "0fc2d4b4-9f3c-4fad-a886-969085c0920a",
     "53f98462-90dc-4e01-b04c-1d0fe70f0d0c"
   ]
 }

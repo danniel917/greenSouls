@@ -34,6 +34,12 @@
         width: 50px;
     }
 
+    .cb__container--{{ section.id }} .cb__text {
+      margin-bottom: 1.2em;
+    }
+
+  
+
     @media (min-width: 1023px){
         .cb__container.cb__container--{{ section.id }} {
             padding-inline: 4rem;
@@ -46,6 +52,10 @@
         .cb__container--{{ section.id }} .cb__image img {
             height: 100%;
             object-fit: cover;
+        }
+
+        .cb__container--{{ section.id }} .cb__text {
+          margin-bottom: 0;
         }
 }
     

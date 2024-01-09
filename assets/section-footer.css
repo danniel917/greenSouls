@@ -907,3 +907,48 @@ footer details[open] summary ~ * {
     padding-bottom: 4rem;
   }
 }
+
+
+.cb__footer {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+.cb__footer .cb__text {
+  color: #FFF;
+  font-weight: 900;
+  text-align: right;
+  font-size: 32px;
+}
+
+.cb__footer .cb__line {
+  width: 100px;
+  height: 3px;
+  background: #FFF;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-bottom: 2em;
+}
+
+.footer {
+  background-image: url(https://cdn.shopify.com/s/files/1/0819/9674/2976/files/footer-bg.png?v=1701454238);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 1023px){
+  
+  .cb__footer .cb__text {
+    font-size: 48px;
+    width: 50%;
+    margin-left: auto;
+  }
+
+  .footer {
+    background-position: top center;
+  }
+
+  .cb__footer {
+    margin-bottom: 10em;
+  }
+}

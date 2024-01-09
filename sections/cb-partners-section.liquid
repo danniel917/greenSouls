@@ -29,6 +29,12 @@
     height: 100%;
     vertical-align: middle;
   }
+
+  @media (max-width: 800px){
+    .section-{{ section.id }} .cb__partner-image {
+      object-fit: scale-down;
+  }
+  }
 {% endstyle %}
 
 <div class="cb__container cb__partners-section">
@@ -81,9 +87,6 @@
     breakpoints: {
       800: {
         perView: 2
-      },
-      480: {
-        perView: 1
       }
     }
   })

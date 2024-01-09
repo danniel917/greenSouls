@@ -112,6 +112,31 @@
         "button_link_2": "shopify:\/\/pages\/san-andres"
       }
     },
+    "6686479d-05e3-4c4e-93e4-5143692cbb8a": {
+      "type": "video-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "full_width": true,
+        "color_scheme": "background-1",
+        "subheading": "",
+        "heading": "",
+        "heading_size": "medium",
+        "text_information": "",
+        "text_align": "left",
+        "show_view_all": false,
+        "button_label": "",
+        "button_style": "primary",
+        "button_link": "",
+        "video": "shopify:\/\/files\/videos\/VIDEO GENERAL GREENSOULS.mp4",
+        "video_ratio": "adapt",
+        "video_fit": "cover",
+        "opacity_overlay": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "b31ed9ff-ac90-41e8-b4d4-7424761edbc6": {
       "type": "cb-navigation",
       "blocks": {
@@ -179,7 +204,7 @@
         "template--20824925438272__b31ed9ff-ac90-41e8-b4d4-7424761edbc6-column-6"
       ],
       "settings": {
-        "padding_top": 20,
+        "padding_top": 80,
         "padding_bottom": 80
       }
     },
@@ -463,6 +488,7 @@
     },
     "e487752c-6330-4c56-a330-379ea8bb77d6": {
       "type": "cb-fullwidth-text-section",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -480,6 +506,7 @@
   "order": [
     "995305b1-dca1-480f-98a4-ea14cf485263",
     "da835c52-ac00-418d-8cf6-a44a3fb90e96",
+    "6686479d-05e3-4c4e-93e4-5143692cbb8a",
     "b31ed9ff-ac90-41e8-b4d4-7424761edbc6",
     "a2da823e-f764-4d85-a407-b9f0bbcd092f",
     "a5aa8c31-650a-4d37-9253-8abc557f7df4",

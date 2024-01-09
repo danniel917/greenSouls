@@ -50,27 +50,26 @@
       "settings": {
         "margin_top": 60,
         "margin_bottom": 60,
-        "text": "<p><strong>El área de impacto directo fue el sector centro occidental de la ciudad de Medellín, específicamente el barrio conocido como Estadio. <\/strong><br\/><br\/>Bajo la bandera de City Plogging, Green Souls lidera un                     movimiento para transformar la gestión de espacios. Nuestra misión es unir a entidades públicas, el sector privado, comunidades vulnerables y la sociedad en su conjunto.<br\/><br\/>Buscamos restaurar ecosistemas dañados y abordar los desechos mediante una perspectiva de economía            circular, promoviendo una cultura de sostenibilidad y     colaboración.<\/p>",
+        "text": "<h3>El área de impacto directo fue el sector centro occidental de la ciudad de Medellín, específicamente el barrio conocido como Estadio.<\/h3><p><strong> <\/strong><br\/><br\/>Bajo la bandera de City Plogging, Green Souls lidera un                     movimiento para transformar la gestión de espacios. Nuestra misión es unir a entidades públicas, el sector privado, comunidades vulnerables y la sociedad en su conjunto.<br\/><br\/>Buscamos restaurar ecosistemas dañados y abordar los desechos mediante una perspectiva de economía            circular, promoviendo una cultura de sostenibilidad y     colaboración.<\/p>",
         "show_additional_image": "no",
         "top_left_image": "shopify:\/\/shop_images\/cityPlogging_7.jpg",
         "top_right_image": "shopify:\/\/shop_images\/cityPlogging_6.jpg",
         "bottom_right_image": "shopify:\/\/shop_images\/cityPlogging_8.jpg"
       }
     },
-    "26f82013-ee6c-4295-a3db-8da8439d4544": {
+    "be9a278b-d22c-45ca-b649-7067229cbc56": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "full_width": true,
         "height": "16\/9",
         "video_fit": "contain",
-        "subheading": "Subheading",
-        "heading": "Heading for your video",
-        "opacity_overlay": 0.5,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "video_autoplay": false,
+        "subheading": "",
+        "heading": "",
+        "opacity_overlay": 0,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=vN4H1XWykLk",
+        "video_autoplay": true,
         "video_loop": false,
-        "video_muted": false,
+        "video_muted": true,
         "video_controls": true,
         "description": "",
         "padding_top": 0,
@@ -139,9 +138,9 @@
         "top_left_image": "shopify:\/\/shop_images\/city_plogging_prox_1.jpg",
         "top_right_image": "shopify:\/\/shop_images\/city_plogging_prox_2.jpg",
         "button_label_1": "Conoce y aparta tu cupo",
-        "button_link_1": "",
+        "button_link_1": "shopify:\/\/pages\/contactanos",
         "button_label_2": "Conoce y aparta tu cupo",
-        "button_link_2": ""
+        "button_link_2": "shopify:\/\/pages\/contactanos"
       }
     }
   },
@@ -151,7 +150,7 @@
     "4b1dab8e-84e6-492e-b693-faa3eed4cfc0",
     "09360e09-46be-42ac-890d-0eeeb5e93955",
     "6bb3059e-4432-418f-971e-457f17fb1cb8",
-    "26f82013-ee6c-4295-a3db-8da8439d4544",
+    "be9a278b-d22c-45ca-b649-7067229cbc56",
     "c1c436e1-7d0d-414e-93a7-6e8bbc7c4f50",
     "ba964efb-219f-480e-967d-80e685784c89",
     "145a6bb8-0a90-4d44-a9a1-1de040b67fde",

@@ -74,6 +74,14 @@
 
 <footer class="footer color-bg">
   <div class="footer__content-top container">
+    <div class="cb__footer">
+      <div class="cb__line"></div>
+      <div class="cb__phrase">
+        <div class="cb__text">
+         {{ section.settings.footer_text }}
+        </div>
+      </div>
+    </div>
     {%- if section.blocks.size > 0 -%}
       <div class="footer__blocks-container">
         <div class="footer__blocks-wrapper">
@@ -1148,6 +1156,13 @@
 		}
 	],
 	"settings": [
+      {
+        "type": "text",
+        "id": "footer_text",
+        "default":  "“La tierra es lo que tenemos todos en común“",
+        "label": "Footer text"
+        
+      },
 		{
 			"type": "color",
 			"id": "color_scheme",

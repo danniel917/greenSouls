@@ -23,7 +23,7 @@
     color: {{ section.settings.title_color }};
     font-size: {{ section.settings.title_size }}px;
     font-weight: 900;
-    margin-bottom: 3em;
+    margin-bottom: 1em;
   }
 
   .section-id-{{ section.id }} .cb__form-container-text p,
@@ -37,12 +37,19 @@
     border-radius: 30px;
     overflow: hidden;
   }
-  
+
   .section-id-{{ section.id }} .cb__form-container-text {
     display: grid;
-    align-content: end;
+    align-content: center;
     padding: 4rem;
   }
+
+  @media (min-width: 1023px){
+    .section-id-{{ section.id }} .cb__form-container-text {
+      width: 70%;
+    }
+  }
+
   .section-id-{{ section.id }} .cb__form-main-container {
     background-color: #1d9ea4;
     display: grid;
@@ -62,7 +69,7 @@
       font-size: 24px;
       margin-bottom: 2em;
     }
-  
+
     .section-id-{{ section.id }} .cb__form-container-text p {
       font-size: 16px;
     }
@@ -75,22 +82,19 @@
 {% endstyle %}
 
 <div class="cb__container section-id-{{ section.id }}">
-    <div class="cb__container-child{% if section.settings.background_color != blank %} cb__background-color{% endif %}">
+  <div class="cb__container-child{% if section.settings.background_color != blank %} cb__background-color{% endif %}">
+    <div class="cb__form-container-text">
+      <h1 class="cb__title-text">{{ section.settings.title }}</h1>
+      <p class="cb__subtitle-text">{{ section.settings.subtitle }}</p>
+      <p class="cb__paragraph-text">{{ section.settings.paragraph_1 }}</p>
+      <p class="cb__paragraph-text">{{ section.settings.paragraph_2 }}</p>
+      <p class="cb__paragraph-text">{{ section.settings.paragraph_3 }}</p>
+    </div>
 
-        <div class="cb__form-container-text">
-            <h1 class="cb__title-text">{{ section.settings.title }}</h1>
-            <p class="cb__subtitle-text">{{ section.settings.subtitle }}</p>
-            <p class="cb__paragraph-text">{{ section.settings.paragraph_1 }}</p>
-            <p class="cb__paragraph-text">{{ section.settings.paragraph_2 }}</p>
-            <p class="cb__paragraph-text">{{ section.settings.paragraph_3 }}</p>
-        </div>
-
-        <div class="cb__form-main-container">
-            <div class="cb__form-form-container">
-              <div class="klaviyo-form-SewQN6"></div>
-            </div>
-        </div>
-
+    <div class="cb__form-main-container">
+      <div class="cb__form-form-container">
+        {{ section.settings.form }}
+      </div>
     </div>
   </div>
 </div>
@@ -129,7 +133,8 @@
       "id": "background_color",
       "label": "Background Color",
       "default": "#fff"
-    }, {
+    },
+    {
       "type": "select",
       "id": "media_alignment",
       "label": "Media alignment",
@@ -137,16 +142,19 @@
         {
           "value": "left",
           "label": "Left"
-        }, {
+        },
+        {
           "value": "right",
           "label": "Right"
         }
       ],
       "default": "left"
-    }, {
+    },
+    {
       "type": "header",
       "content": "Text options"
-    }, {
+    },
+    {
       "type": "text",
       "id": "title",
       "default": "Heading",
@@ -167,36 +175,47 @@
       "id": "title_color",
       "label": "Title color",
       "default": "#000"
-    }, {
+    },
+    {
       "type": "text",
       "id": "subtitle",
       "default": "Subtitle",
       "label": "Subtitle"
-    }, {
+    },
+    {
       "type": "color",
       "id": "subtitle_color",
       "label": "Subtitle color",
       "default": "#000"
-    }, {
+    },
+    {
       "type": "richtext",
       "id": "paragraph_1",
       "default": "<p>Some description</p>",
       "label": "Paragraph"
-    }, {
+    },
+    {
       "type": "richtext",
       "id": "paragraph_2",
       "default": "<p>Some description</p>",
       "label": "Paragraph"
-    }, {
+    },
+    {
       "type": "richtext",
       "id": "paragraph_3",
       "default": "<p>Some description</p>",
       "label": "Paragraph"
-    }, {
+    },
+    {
       "type": "color",
       "id": "paragraph",
       "label": "Text color",
       "default": "#000"
+    },
+    {
+      "type": "html",
+      "id": "form",
+      "label": "Form Code"
     }
   ],
   "presets": [
